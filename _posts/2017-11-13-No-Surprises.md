@@ -1,13 +1,3 @@
----
-title:  "Welcome to Jekyll!"
-header:
-  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
-categories:
-  - Jekyll
-tags:
-  - update
----
-
 I woke up having barely had any sleep and was met by my panic alarm, I quickly stuff some Snus under my lip, wash my face, my armpits, freshen up and head to work.
 
 It was an ok day at a pretty good pace, I got stuff done but I did end up leaving work feeling unfulfilled which I hate.
