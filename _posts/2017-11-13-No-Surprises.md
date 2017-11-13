@@ -22,7 +22,8 @@ The knocking becomes ever more intense and paralell to this I also hear frantic 
 
 I open the door and there's a younger girl, a boy and an older lady telling me that there is smoke emitting from the building, they look clearly worried and in need of help. I also see other people leaving their flats to investigate or warn other neighbours. I want to keep my wits about me as the adrenaline strikes so I tell the young man that I'll call the fire department, as I do that I do actually see emissions of smoke and they did not make that smell up. It clearly did smell like burning plastic, let's just say my spidey-sense was tingling at this point.
 
-The kind lady on the line took me through steps as I tried to make sense of where the smoke was emitting from, I couldn't give her a clear answer so I just tell her what my neighbours said and that I too have seen the smoke and sensed the smell.
+The kind lady on the line took me through steps as I tried to make sense of where the smoke was coming from, I couldn't give her a clear answer so I just told her what my neighbours said and that I too have seen the smoke and sensed the smell.
+
 ---
 ![image](/_images/flames.png)
 
