@@ -4,9 +4,10 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+
 minimal_mistakes_skin    : "neon"
 
- Site Settings
+# Site Settings
 locale                   : "en"
 title                    : "dotmavriq"
 title_separator          : "-"
@@ -80,7 +81,7 @@ analytics:
     tracking_id          :
 
 
- Site Author
+# Site Author
 author:
   name             : "dotMavriQ"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
