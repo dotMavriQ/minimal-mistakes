@@ -28,6 +28,8 @@ The kind lady on the line took me through steps as I tried to make sense of wher
 {% raw %}![alt]({{ site.url }}{{ site.baseurl }}/_images/flames.png)
 {: .full}{% endraw %}
 
+![image](assets/flames.png)
+
 At first a regular duty car shows up, I believe one fireman in civil clothing ran all the way there just to check.
 And then comes a complete firetruck with fully dressed and ready firemen, as I turn around I notice that my neighbours have conveniently left me there to discuss things with the firemen, and that the smoke isn't really that present anymore.... .... .... .....
 
