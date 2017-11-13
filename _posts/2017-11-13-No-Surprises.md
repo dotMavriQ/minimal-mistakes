@@ -33,6 +33,8 @@ The knocking becomes ever more intense and paralell to this I also hear frantic 
 I open the door and there's a younger girl, a boy and an older lady telling me that there is smoke emitting from the building, they look clearly worried and in need of help. I also see other people leaving their flats to investigate or warn other neighbours. I want to keep my wits about me as the adrenaline strikes so I tell the young man that I'll call the fire department, as I do that I do actually see emissions of smoke and they did not make that smell up. It clearly did smell like burning plastic, let's just say my spidey-sense was tingling at this point.
 
 The kind lady on the line took me through steps as I tried to make sense of where the smoke was emitting from, I couldn't give her a clear answer so I just tell her what my neighbours said and that I too have seen the smoke and sensed the smell.
+---
+![i want you to burn/learn](_images/flames.png)
 
 At first a regular duty car shows up, I believe one fireman in civil clothing ran all the way there just to check.
 And then comes a complete firetruck with fully dressed and ready firemen, as I turn around I notice that my neighbours have conveniently left me there to discuss things with the firemen, and that the smoke isn't really that present anymore.... .... .... .....
@@ -45,6 +47,7 @@ And after the captain himself went into my punk rock 1 room appartment with my d
 
 And no sign of the neighbours afterwards either.
 
+---
 
 It took some time for me to calm down, I didn't know if I was angry or scared or anything.. just riled up, full of adrenaline.
 
