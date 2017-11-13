@@ -4,10 +4,9 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+minimal_mistakes_skin    : "neon"
 
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Site Settings
+ Site Settings
 locale                   : "en"
 title                    : "dotmavriq"
 title_separator          : "-"
@@ -17,7 +16,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+ breadcrumbs            : false # true, false (default)
 words_per_minute         : 300
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -59,7 +58,7 @@ alexa_site_verification  :
 yandex_site_verification :
 naver-site-verification  :
 
-# Social Sharing
+ Social Sharing
 twitter:
   username               : dotMavriQ
 facebook:
@@ -81,7 +80,7 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+ Site Author
 author:
   name             : "dotMavriQ"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -101,17 +100,17 @@ author:
   keybase          :
   instagram        : dotmavriq
   lastfm           : TheJonis
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : jonatan-jansson-1285b17b (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        : dotmavriq
   soundcloud       : slothberry
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : 5994865/dotmavriq (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : dotmavriq # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           : dotmavriq
   twitter          : dotmavriq
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UC6xq_geO2CtxjD9isOBzTxQ?view_as=subscriber"
 
 
 # Reading Files
