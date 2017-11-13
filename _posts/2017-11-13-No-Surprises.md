@@ -1,7 +1,7 @@
 I woke up having barely had any sleep and was met by my panic alarm, I quickly stuff some Snus under my lip, wash my face, my armpits, freshen up and head to work.
 
 It was an ok day at a pretty good pace, I got stuff done but I did end up leaving work feeling unfulfilled which I hate.
-Some days I'm a man that sees the world as a set of problems in dire need of solutions, and when my quota of solutions don't equate the problems I become a kranky little boy that has to swallow his pride and relax with a podcast and some food.
+Some days I'm a man that sees the world as a set of problems in dire need of solutions, and when my quota of solutions don't equate the problems I become a cranky little boy that has to swallow his pride and relax with a podcast and some food.
 
 I put on the episode from the Jordan B. Petersson Podcast where he's in a conversation with Camille Paglia on the future of society and the dangers of postmodernism, I had already seen and thus heard the video version of it but figured it would be good enough to make due for my walk home from work. Having showed up a couple of minutes late it only felt right to leave work giving 30-40 minutes extra and also accompanying my fellow programming buddy as he had a crack at some backend/PHP-related issues.
 
@@ -24,7 +24,7 @@ I open the door and there's a younger girl, a boy and an older lady telling me t
 
 The kind lady on the line took me through steps as I tried to make sense of where the smoke was emitting from, I couldn't give her a clear answer so I just tell her what my neighbours said and that I too have seen the smoke and sensed the smell.
 ---
-![i want you to burn/learn](_images/flames.png)
+![image](/_images/flames.png)
 
 At first a regular duty car shows up, I believe one fireman in civil clothing ran all the way there just to check.
 And then comes a complete firetruck with fully dressed and ready firemen, as I turn around I notice that my neighbours have conveniently left me there to discuss things with the firemen, and that the smoke isn't really that present anymore.... .... .... .....
