@@ -13,16 +13,16 @@ title                    : "dotmavriq"
 title_separator          : "-"
 name                     : "dotMavriQ"
 description              : "the devblog of dotMavriQ"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "http://dotmavriq.life"
+baseurl                  : "/"
+repository               : "dotMavriQ/dotmavriq.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
  breadcrumbs            : false # true, false (default)
 words_per_minute         : 300
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               :  "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : https://disqus.com/by/dotMavriQ/
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
