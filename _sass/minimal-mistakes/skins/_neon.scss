@@ -18,6 +18,12 @@ $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
+$header-font-family           : floorlight !default;
+@font-face {
+    font-family: floorlight;
+    src: url(/assets/fonts/Floorlight.ttf);
+}
+
 .author__urls.social-icons .fa,
 .page__footer-follow .social-icons .fa {
   color: inherit;
