@@ -5,14 +5,14 @@ categories:
   - blog
 tags:
   - life
-  - Jordan B Peterson 
+  - "Jordan B Peterson"
 ---
 I woke up having barely had any sleep and was met by my panic alarm, I quickly stuff some Snus under my lip, wash my face, my armpits, freshen up and head to work.
 
 It was an ok day at a pretty good pace, I got stuff done but I did end up leaving work feeling unfulfilled which I hate.
 Some days I'm a man that sees the world as a set of problems in dire need of solutions, and when my quota of solutions don't equate the problems I become a cranky little boy that has to swallow his pride and relax with a podcast and some food.
 
-I put on the episode from the Jordan B. Petersson Podcast where he's in a conversation with Camille Paglia on the future of society and the dangers of postmodernism, I had already seen and thus heard the video version of it but figured it would be good enough to make due for my walk home from work. Having showed up a couple of minutes late it only felt right to leave work giving 30-40 minutes extra and also accompanying my fellow programming buddy as he had a crack at some backend/PHP-related issues.
+I put on the episode from the [Jordan B. Petersson Podcast](https://jordanbpeterson.com/2017/10/episode-31/) where he's in a conversation with Camille Paglia on the future of society and the dangers of postmodernism, I had already seen and thus heard the [video version of it](https://youtu.be/v-hIVnmUdXM) but figured it would be good enough to make due for my walk home from work. Having showed up a couple of minutes late it only felt right to leave work giving 30-40 minutes extra and also accompanying my fellow programming buddy as he had a crack at some backend/PHP-related issues.
 
 The episode was really long and became a nice way to just procrastinate cooking and adulting.
 

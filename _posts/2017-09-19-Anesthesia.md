@@ -1,3 +1,13 @@
+---
+title: "Anesthesia"
+comments: true
+categories:
+  - blog
+tags:
+  - life
+  - typeface
+  - font
+---
 ## Bass Solo, take one
  Today consisted of removing a tooth, reading and programming.
 
