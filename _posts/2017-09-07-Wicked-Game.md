@@ -1,16 +1,12 @@
 ---
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+title: "Wicked Game"
+comments: true
+categories:
+  - blog
+tags:
+  - rant
+  - facebook
+  - games 
 ---
 
 This is not a post of praises.
