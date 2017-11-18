@@ -6,6 +6,7 @@ categories:
 tags:
   - life
   - "Jordan B Peterson"
+
 ---
 I woke up having barely had any sleep and was met by my panic alarm, I quickly stuff some Snus under my lip, wash my face, my armpits, freshen up and head to work.
 
