@@ -1,3 +1,18 @@
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+
+      
 This is not a post of praises.
 
 It is probably more of a stinkpiece to be completely honest.
