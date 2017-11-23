@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "dotMavriQ"
-  avatar           : "/minimal-mistakes/assets/MeProfile.jpg"
+  avatar           : "/assets/MeProfile.jpg"
   bio              : "I am an amazing person."
   location         : "Lidköping"
   bitbucket        :
