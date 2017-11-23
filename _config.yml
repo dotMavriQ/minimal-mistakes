@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "dotMavriQ"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/minimal-mistakes/assets/MeProfile.jpg"
   bio              : "I am an amazing person."
   location         : "Lidköping"
   email            : dotMavriQ@protonmail.ch
