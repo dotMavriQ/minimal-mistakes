@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "neon"
+minimal_mistakes_skin    : "gruvbox"
 
 # Site Settings
 locale                   : "en"
@@ -54,12 +54,11 @@ atom_feed:
 
 # SEO Related
 google_site_verification :
-bing_site_verification   :
+bing_site_verification   : F3C67AD8250743FF76110127D01B4222
 alexa_site_verification  :
-yandex_site_verification :
+yandex_site_verification : cd9f33b7cf79d3eb
 naver-site-verification  :
-
- Social Sharing
+#Social Sharing
 twitter:
   username               : dotMavriQ
 facebook:

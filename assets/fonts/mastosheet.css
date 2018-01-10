@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Mastodon';
+  src: url('MASTOD__.ttf') type('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mastodon';
+  src: url('MASTODB_.ttf') type('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
