@@ -16,7 +16,7 @@ Last couple of days have been fine.
 
 Work is moving along neatly, food is plentiful.. okay maybe the food is a bit too fatty this time a year, I wouldn't mind it if it wasn't for the frequency. I feel like eating salad for the rest of the year at this point.
 
-Anyhow, in just three days I will finally meet Margarida. 
+Anyhow, in just three days I will finally meet [Margarida](https://www.instagram.com/modus.vivendii/). 
 We met online in some facebookgroup for metal music, I asked slided into her DMs and asked her if she'd be up to meet if I were to move to Portugal or at least visit. 
 
 Aaaaand seven months went by, no further thought went into it really. 
