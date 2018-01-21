@@ -8,7 +8,7 @@ tags:
   - Work
   - Christmas
 ---
-![View from the office](https://photos.google.com/share/AF1QipNHWHFMiW2z0K9noAI68AuPpqt9z5tUdKItWrF85FkrzKY3idUt8hJdrionym00PQ?key=RklxS21WdUtUbVFQN3RpMm92cTA1X3hrRWxVMGpB)
+![View from the office](https://i.imgur.com/wN9njSZ.jpg)
 
 ---
 Dear Blog,
