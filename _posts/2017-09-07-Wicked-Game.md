@@ -74,7 +74,5 @@ In my bitter state I ended up contacting the company about this and the reply wa
 
 ![Yuck](https://i.imgur.com/SFKhlA3.png)
 
-[Song of the day.](https://open.spotify.com/track/390AWnOn2rfe9FzQjYmxIH)
-
-Be wise.
-Be a good person.
+## SOTD:
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:390AWnOn2rfe9FzQjYmxIH" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>

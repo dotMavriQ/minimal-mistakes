@@ -44,4 +44,4 @@ The legacy needs to live on!
 
 ## SOTD:
 
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:spotify:track:3kRggoimqmGrkPzTthEZKc&view=coverart" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:3kRggoimqmGrkPzTthEZKc" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
