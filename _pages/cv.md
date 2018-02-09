@@ -45,8 +45,6 @@ Experience
 
 I currently work as a Community Manager for Duva. My job mostly consists of establishing customer relations as well as maintaining customer relations. I also do Web Developer and Web Design work. 
 
-* First item
-
 * Duva [facebook](https://www.facebook.com/Duva.AB/). 
 
 * Duva website [website](http://duva.nu/). 
