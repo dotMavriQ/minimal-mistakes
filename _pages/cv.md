@@ -2,6 +2,7 @@
 title: "CV"
 permalink: /cv/
 ---
+<p style="text-align: center;">
 Jonatan Jansson
 ============
 
@@ -77,8 +78,11 @@ Active member of several Linux communities with many contributions under the bel
 The Secret Sauce
 ----------------------------------------
 
-* Organisations:
+ Organisations:
+AirCat Föreningen
 * Vice President of the AirCat Foundation for Suicide Prevention.
 
-* MakerSpace Lidköping
+MakerSpace Lidköping
 * Founder and Secretary.
+
+</p>
