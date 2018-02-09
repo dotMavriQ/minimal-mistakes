@@ -1,6 +1,6 @@
   # _pages
   - scope:
-      path: ""
+      path: "/CV/"
       type: pages
     values:
       layout: single
