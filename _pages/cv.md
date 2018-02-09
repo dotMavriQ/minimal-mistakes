@@ -5,12 +5,13 @@ permalink: /cv/
 <p style="text-align: center;">
 Jonatan Jansson
 ============
-
+</p>
+<p style="text-align: center;">
 -------------------     ----------------------------
 Lidköping, Västra Götaland, Sweden
 Jonatanjansson2@gmail.com
 -------------------     ----------------------------
-
+</p>
 Education
 ---------
 2016
@@ -84,5 +85,3 @@ AirCat Föreningen
 
 MakerSpace Lidköping
 * Founder and Secretary.
-
-</p>
