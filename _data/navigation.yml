@@ -1,14 +1,14 @@
 # main links
  main:
-   - title: "CV"
-     url: /CV/
-   - title: "Guides"
-     url: /Guides/
-   - title: "Recipes"
-     url: /Recipes/
-   - title: "Links"
-     url: /Links/
-   - title: "Reviews"
-     url: /Reviews/
-   - title: "Projects"
-     url: /Projects/
+   - title: "cv"
+     url: /cv/
+   - title: "guides"
+     url: /guides/
+   - title: "recipes"
+     url: /recipes/
+   - title: "links"
+     url: /links/
+   - title: "reviews"
+     url: /reviews/
+   - title: "projects"
+     url: /projects/
