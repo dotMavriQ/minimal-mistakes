@@ -1,9 +1,5 @@
-  # _pages
-  - scope:
-      path: "/CV/"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+---
+title: "CV"
+permalink: /cv/
 ---
       <p>I'm the scatman</p>
