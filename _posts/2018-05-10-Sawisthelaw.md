@@ -7,13 +7,11 @@ tags:
   - makerspace
   - blog
   - DIY
+header:
+  video:
+    id: 9lmg88NgkVo
+    provider: youtube
 ---
-# Arcade Cabinet - Humble beginnings
-
-```
-{% include video id="9lmg88NgkVo" provider="youtube" %}
-```
-
 # The Saw is the Law
 
 I started today with waking up (weird, I know), getting my flat ready for a well needed spring cleaning and then I talked to Margarida on Skype for a bit. 
