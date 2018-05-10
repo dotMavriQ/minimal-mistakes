@@ -4,7 +4,7 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
     {% if site.data.ui-text[site.locale].follow_label %}
-      <li> <a href="https://chat.dotmavriq.life"> <img src="https://chat.dotmavriq.life/assets/logo.png" alt="dotChat"> </a> </li>
+      <li> <a href="https://chat.dotmavriq.life" target="_blank"> <img src="https://chat.dotmavriq.life/assets/logo.png" alt="dotChat"> </a> </li>
     {% endif %}
     {% if site.twitter.username %}
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
@@ -19,7 +19,7 @@
       <li><a href="http://gitlab.com/{{ site.author.gitlab }}"><i class="fa fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
     {% endif %}
     {% if site.data.ui-text[site.locale].follow_label %}
-      <li><a href="http://beta.dotmavriq.life/"><i class="fa fa-flask" aria-hidden="true"></i>beta.dotmavriq.life</a></li>
+      <li><a href="http://beta.dotmavriq.life/" target="_blank"><i class="fa fa-flask" aria-hidden="true"></i>beta.dotmavriq.life</a></li>
     {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
