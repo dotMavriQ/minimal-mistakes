@@ -32,7 +32,7 @@ Now the work starts!
 
 So we have bought lengths of wood with which to create the structure base for the cabinet, it will need more than just your usual strengthening as a screen will be mounted inside of it and so on and so forth.
 
-We started by cutting up the lengths to appropriate proportions, and by the end of the day we put the together with a screwdriver.
+We started by cutting up the lengths to appropriate proportions, and by the end of the day we assembled the pieces with a screwdriver.
 
 ---
 ## SOTD:
