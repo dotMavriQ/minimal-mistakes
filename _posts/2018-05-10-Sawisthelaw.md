@@ -7,10 +7,6 @@ tags:
   - makerspace
   - blog
   - DIY
-header:
-  video:
-    id: 9lmg88NgkVo
-    provider: youtube
 ---
 # The Saw is the Law
 
@@ -33,7 +29,7 @@ Halef hands us the rolls, joy can be restored to life..and off we go to the Make
 Alex shows up after some time, having carried the powertools we graciously got to borrow from Sebastians father. 
 Now the work starts! 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9lmg88NgkVo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## Cutting up lengths
 
 So we have bought lengths of wood with which to create the structure base for the cabinet, it will need more than just your usual strengthening as a screen will be mounted inside of it and so on and so forth.
