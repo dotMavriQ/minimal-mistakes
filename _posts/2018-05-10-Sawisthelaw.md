@@ -8,8 +8,6 @@ tags:
   - blog
   - DIY
 ---
-# The Saw is the Law
-
 I started today with waking up (weird, I know), getting my flat ready for a well needed spring cleaning and then I talked to Margarida on Skype for a bit. 
 
 We originally intended to begin working on the cabinet last night but because of tool shortages we had to delay it until today.
