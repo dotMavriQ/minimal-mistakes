@@ -25,7 +25,9 @@ If you are ready for the emotional rollercoaster of a lifetime you NEED to give 
 This new single release comes with two tracks, 
 [I Can Tell You About Pain](https://open.spotify.com/track/5sYU2A8hh1up0MzY4nf1iH?si=kX0mjEpyQiaJ9Lw_GcWzyw) as well as [Eve](https://open.spotify.com/track/7hcQALrk9WBV2oWI7hCTwP?si=G6garousTU2vdZ1ipPOdGg), a 7 and a half minute complete annihilation, with a brooding beginning, foreboding devastating lyric and delivery. One of the more special tracks ever released by Converge.
 I'm gonna go listen the hell out of this right now, and so should you!
+
 ---
+
 <pre>
 In all of us lies secrets  
 Hidden inside hollow hearts  
