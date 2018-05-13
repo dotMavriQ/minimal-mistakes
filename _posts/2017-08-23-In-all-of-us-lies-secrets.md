@@ -1,5 +1,5 @@
 ---
-title: "In all of us lie secrets"
+title: "In all of us lies secrets"
 comments: true
 categories:
   - blog
