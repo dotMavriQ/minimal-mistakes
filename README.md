@@ -37,6 +37,13 @@ This is my devblog where I speak my mind, show things that I've learned, make gu
 * Correctly link to Lidmake in footer.
 * Frightening update of everything in Ruby, things such as Awesome-fonts are old et.c. et.c.
 
+## DOTSITES - BETA
+
+* Create some sort of sync between posts from main git to beta. 
+* Complete theme structure, all of it.
+* Integrate StackEdit 
+
+
 ## DOTSITES - DOTTER
 
 * Install Mastodon on GERTY
