@@ -1,0 +1,45 @@
+---
+title: "26 Years (On my way to hell!)"
+comments: true
+categories:
+  - blog
+tags:
+  - blog
+  - life
+  - birthday
+---
+
+![image](https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180614_makertosca?raw=true)
+
+Happy Birthday Me.. welp.. looks like I finally hit 26,
+pretty sure 15 year old me never thought I'd see the day
+
+I woke up casually and took a slow morning. 
+
+Read up on some articles on the internet, listened to some podcasts, videos on YouTube.. it was pleasantly relaxing. 
+
+I watered my parents garden and took the time to use their washing machine. 
+And then I cooked this. 
+
+I really love my minimalist life, the independence, the silence that is there for the most part.. but I sure do miss a proper kitchen and my own washing machine sometimes. 
+
+After 5pm Phil picked me up and we went to the World Food Market, which is like a caravan with food from all over the world that visited Lidköping last year but has returned this year as well. 
+
+I was a bit mushy and adjusted to be surrounded by a beehive of people eager to buy all and everything they can see. After meeting up with Sara, Sebbe, Wikström and Alex we went to Sparbanken to cash out some money because..well.. not a lot of these tents accept cards.. 
+
+The waiting line was shockingly big so Phil got the excellent idea to just walk to the other one right across the bridge. And it worked, LifeHacks! 
+
+After we got money we settled on a Kangaroo Burger from the Australian Tent.. it was ok. Wouldn't repeat the purchase. A nice thing to try, cool gimmick, nice people working.. but product wise I wouldn't pay what I pay at Mellbygatans for something with the quality of the Max Hamburger chain, no shade just..  
+
+Ok, if I stop being a grumpy old man for just a brief second it did have a somewhat interesting texture.. it WAS worth a try.. maybe I'll grab a Camel and a Crocodile one before they leave.. 
+
+We moved to MakerSpace after buying some stuff at Jem & Fix like sandpaper and woodfix for the Arcade Cabinet, we bought some Toscakaka and hung out until Alex showed up.. it was a pretty low intensity day, but that's what I wanted.. I'm not really in the mood of grand undeserved celebration. I'd rather celebrate achievement, or just meet up with people and have a great time. 
+
+Fighting for things that are real
+
+Fighting for things that are true
+
+That's me. 
+
+## SOTD:
+<iframe src="spotify:track:7G7goP3778xJ9AtdmlhSNx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
