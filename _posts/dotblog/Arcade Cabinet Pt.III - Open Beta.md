@@ -1,3 +1,13 @@
+---
+title: "Arcade Cabinet Pt.III - Open Beta"
+comments: true
+categories:
+  - blog
+tags:
+  - blog
+  - makerspace
+  - Nördmässan
+---
 Waking up was tough today for some reason.. didn't even get proper food going before it was showtime. 
 
 I got to MakerSpace, carried down the cabinet with the boys and made sure that our spot was saved. We got a bit crammed next to the VR-dudes but settled in nicely. 
@@ -14,5 +24,6 @@ Saddest moment was probably just being struck by hunger and fatigue only to be m
 
 Over and out
 
----
-Squarepushers funky song
+SOTD 
+
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:0x0JU8OqFZqIykEmtIRb2A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
