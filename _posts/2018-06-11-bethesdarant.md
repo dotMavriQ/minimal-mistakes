@@ -32,8 +32,6 @@ This pareto distribution, larger-than-life franchise extravaganza that is in Hol
 
 ## How about daring something bigger..
 
----
-
 Lock assets, physics, and dialog-functionality and drop PC/MAC "SDKs". 
 Somewhere between open sourcing with license and Mario Maker, software that let's people create their own story with the mythos you have been big enough to create. Imagine a mass market Unity engine with a program that let's EVERYONE engage with varying degrees of complexity, that encourages learning, that creates world wide collaboration never before seen. 
 
