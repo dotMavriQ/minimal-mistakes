@@ -91,18 +91,18 @@
     </li>
   {% endif %}
 
-  {% if author.github %}
+  {% if author.flashback %}
   <li>
-    <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
-      <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+    <a href="https://www.flashback.org/{{ author.flashback }}" itemprop="sameAs">
+      <i class="fa fa-user-circle" aria-hidden="true"></i> Flashback
     </a>
   </li>
 {% endif %}
 
-{% if author.gitlab %}
+  {% if author.github %}
   <li>
-    <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs">
-      <i class="fa fa-fw fa-gitlab" aria-hidden="true"></i> GitLab
+    <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+      <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
     </a>
   </li>
 {% endif %}
