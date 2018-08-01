@@ -1,3 +1,13 @@
+---
+title: "Hamsterposting"
+comments: true
+categories:
+  - blog
+tags:
+  - tooth
+  - games
+  - tvseries
+---
 Hello everybody, Hamster here! 
 
 Or at least on one half of my face. 
