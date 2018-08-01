@@ -40,7 +40,7 @@ Revisited the Vikings TV-series but it mostly just pissed me off with all its in
 
 Yeah.. That might just be it for today.
 
-<figure class="half">
+<figure>
   <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur4.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur4.jpg?raw=true"></a></figure>
 
