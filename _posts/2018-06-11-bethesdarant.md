@@ -65,9 +65,12 @@ Hahah.. TES:VI dropped in there like you had more confidence than Kanye.. wow.. 
 
 And what about the modders? What about the ability for others to host?
 Will it come? Or will it just perish to whatever fate consumers give it the first run.. if that's the case it saddens me that you are creating products you don't even believe in yourself. 
+
 ---
+
 It's time we saw a miracle
 Come on, it's time for something biblical
+
 --- 
 SOTD:
 <iframe src="https://open.spotify.com/embed?uri=spotify:track:6z0QCh7CTU9bE5C7TAHK4R" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
