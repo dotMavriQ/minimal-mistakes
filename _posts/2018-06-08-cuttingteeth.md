@@ -1,5 +1,5 @@
 ---
-title: "Cutting Teeth"
+title: "CUTTING TEETH"
 comments: true
 categories:
   - blog
@@ -16,7 +16,7 @@ We had agreed that she could drive me to Skövde Käkkirurgiska because she had 
 
 Waiting took a while, glad I had my mother there because dumb as I am I forgot to bring my ID, so she vouched for me. 
 
-After half an hour of waiting ( Landsting these days ).. I was greeted met with a woman who took me through the process and if I would want to do the surgery.. I agreed hahah.. I mean, what REAL choice do I have? 
+After half an hour of waiting (Landsting these days).. I was greeted met with a woman who took me through the process and if I would want to do the surgery.. I agreed hahah.. I mean, what REAL choice do I have? 
 
 I got A LOT of anaesthesia, and she had an incredible technique when she applied it too like hahaha.. I was impressed. She put a finger at the end of my jawline and everything got applied without any pain of discomfort at all, freakishly competent I must say.
 
