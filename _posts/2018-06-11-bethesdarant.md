@@ -68,8 +68,7 @@ Will it come? Or will it just perish to whatever fate consumers give it the firs
 
 ---
 
-It's time we saw a miracle
-
+It's time we saw a miracle.
 Come on, it's time for something biblical
 
 --- 
