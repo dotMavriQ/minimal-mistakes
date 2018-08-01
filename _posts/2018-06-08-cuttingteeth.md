@@ -7,6 +7,9 @@ tags:
   - blog
   - life
   - tooth
+
+  header:
+  teaser: https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/ca_dentist.png?raw=true
 ---
 
 
@@ -30,7 +33,7 @@ I got help finding the surgery room and then they started opening up a wound in 
 
 They said something about changing a bag.. possibly a collection bag for blood or just some saline. 
 
-After I while I started to get quite dizzy and after a break to change some equipment the had drilled into the tooth, pryed it open, removed the parts and finally cleaned and sealed the wound. 
+After I while I started to get quite dizzy and after a break to change some equipment they drilled into the tooth, pryed it open, removed the parts and finally cleaned and sealed the wound. 
 
 I thanked them for good care and met with my mother. 
 
