@@ -13,6 +13,11 @@ Hello everybody, Hamster here!
 Or at least on one half of my face. 
 I think it's healing up pretty ok though, although I will have to admit that I've already grown tired of the "Healing" thing.. like.. only being able to eat soft foods without experiencing pain and all that, but I'll be ok. 
 
+<figure class="half">
+    <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180510_hamster.jpg?raw=true"><img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180510_hamster.jpg?raw=true"></a>
+    <figcaption>my Hamsterface post-dentist @ Käkkirurgiska in Skövde</figcaption>
+</figure>
+
 Last night I bought and played The Saboteur from GoG.com. It's classic game I never got the chance to play and I love the style of the game as well as the story. The mad discount convinced me it was worth it, haha! 
 
 I will have to play it some more to leave a more proper review.  
@@ -28,4 +33,4 @@ Yeah.. That might just be it for today.
 Stay weird folks. 
 ---
 SOTD:
-Sabotage
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:0Puj4YlTm6xNzDDADXHMI9" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
