@@ -1,4 +1,18 @@
-Woke up around nine and got as ready as I could get before my dear mother picked me up in the Toyota. 
+---
+title: "CUTTING TEETH"
+comments: true
+categories:
+  - blog
+tags:
+  - blog
+  - life
+  - tooth
+---
+
+<figure class="half">
+    <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/ca_dentist.png?raw=true"><img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/ca_dentist.png?raw=true"></a>
+</figure>
+Woke up ~09:00 in the morning and got as ready as I could get before my dear mother picked me up in the Toyota. 
 
 We had agreed that she could drive me to Skövde Käkkirurgiska because she had to tend to my grandmother who lives in Skara later anyway. 
 
@@ -29,10 +43,13 @@ It tastes like heaven usually, but it also contains Pineapple.. and pineapple is
 
 After a solid 15 minutes of groaning and winceing from the pain I caused to myself I amped up all my painkillers, effectively leaving me on 2grams of Alvedon (Paracetamol) and 400mg of Ibuprophene. 
 
-I decided to watch Mony Pythons Life of Brian, when the meds kicked in I ended up sleeping for 3-4 hours. 
+I decided to watch Monty Pythons Life of Brian, when the meds kicked in I ended up sleeping for 3-4 hours. 
 
 My parents saved the day yet again by riding by my place and dropping food because in waking I felt so weak I feared fainting should I walk to a store, and stupid as I am I didn't do any sort of prep in regards to food for this. 
 
 I call Margarida really late and after having talked to her I was in better spirits and finally made a really creamy, light-on-the-spices Risoni-Risotto with everything in it very finely chopped. 
 
-I ate a absurdly big portion by eating most of it, falling asleep for an hour, waking up to hearing Margarida still on the phone sleeping serenely.. I finished the Risotto and had water and returned to sleep. 
+I ate a absurdly big portion by eating most of it, falling asleep for an hour, waking up to hearing Margarida still on the phone sleeping silently.. I finished the Risotto and had water and returned to sleep. 
+
+## SOTD:
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:4ACqgbwaJyCMnToAcpD8wg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
