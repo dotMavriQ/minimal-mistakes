@@ -1,10 +1,27 @@
-Nuke it? When? 
+---
+title: "Ramblings on Bethesda E3 2018"
+comments: true
+categories:
+  - blog
+tags:
+  - blog
+  - bethesda
+  - rants
+  - videogames
+---
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LZOfMttL_Io" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Nukes? since when? 
 Ugh.. 
 Worse-than-DRM-lock business approach where modding won't be possible. Servers for years? Yeah? And then what? Fallout taking a step into planned obsolescence? 
 People still play Fallout 3, the idea of good mechanics, pleasant storyline, tons of choices, freedom, aesthetics.. moddability.. It's a game for the ages. Fallout 4 tried new things in a sense, but fundamentally dropped on everything that gave it staying power.. you made it Mass Effect itself into public disinterest.
 This is why Half-Life 3 isn't being made.
 
 Not a single game got a strong focus on story, it's product pitch, I get it.. but what made Wasteland 2 work was confidence, what makes people play games that are covered in cheese and crust is unorthodox non-best-practise approaches and most of all SUBSTANCE! Please don't play too big to fail, this pitch felt like Bethesda went Apple more than anything else.. loved the flexing on the money too like; "Mobile game made us more money than all other games combined".. there's no other way to read into his language other than "We need to somehow talk about this people, I know you own the culture but we own what you consume so here's the pitch, swallow it".. as cynical as I sound saying it that was my first reflection and I still stand by it. 
+
+<figure class="half">
+    <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/fallout_76.png?raw=true"><img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/fallout_76.png?raw=true"></a>
+    <figcaption>The Arcade Cabinet BETA displayed at Nördmässan 2018</figcaption>
+</figure>
 
 And in regards to Blades...
 My positive takes are this; 
@@ -37,7 +54,7 @@ Minecraft didn't win because of arbitrary functions in the game like looting, pr
 The fact that Minecraft's team was indie made so that they didn't cry when someone made a nudity mod or worse, and the fact that triple A have brands outdoing nations economically and the proposed responsibilities that comes with it might be what is harming the REAL revolution in gaming, I think people feel it. The waste of potential, the inertia from the Gods. 
 More on these thoughts some other time...
 
-Oh and Thank you for following my racy rants btw.. geez.. I know I'm getting ahead of myself.. back to Bethesda.
+Oh and Thank you for reading my rants btw.. geez.. I know I'm getting ahead of myself.. back to Bethesda.
 
 Bethesda has survived to a LARGE degree thanks to the morbidly ambitious modding community. 
 Skyblivion ought to be the be-all-end-all proof that I'm in the right.
@@ -55,4 +72,4 @@ It's time we saw a miracle
 Come on, it's time for something biblical
 --- 
 SOTD:
-Apocalypse please
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:6z0QCh7CTU9bE5C7TAHK4R" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
