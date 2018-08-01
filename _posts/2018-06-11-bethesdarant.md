@@ -19,7 +19,7 @@ This is why Half-Life 3 isn't being made.
 Not a single game got a strong focus on story, it's product pitch, I get it.. but what made Wasteland 2 work was confidence, what makes people play games that are covered in cheese and crust is unorthodox non-best-practise approaches and most of all SUBSTANCE! Please don't play too big to fail, this pitch felt like Bethesda went Apple more than anything else.. loved the flexing on the money too like; "Mobile game made us more money than all other games combined".. there's no other way to read into his language other than "We need to somehow talk about this people, I know you own the culture but we own what you consume so here's the pitch, swallow it".. as cynical as I sound saying it that was my first reflection and I still stand by it. 
 
 <figure class="half">
-    <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/fallout_76.png?raw=true"><img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/fallout_76.png?raw=true"></a>
+    <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/Fallout_76.png?raw=true"><img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/Fallout_76.png?raw=true"></a>
     <figcaption>The Arcade Cabinet BETA displayed at Nördmässan 2018</figcaption>
 </figure>
 
