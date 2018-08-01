@@ -21,8 +21,11 @@ I think it's healing up pretty ok though, although I will have to admit that I'v
 Last night I bought and played The Saboteur from GoG.com. It's classic game I never got the chance to play and I love the style of the game as well as the story. The mad discount convinced me it was worth it, haha! 
 
 <figure class="third">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur1g?raw=true">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur2?raw=true">
+<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur1.jpg?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur1.jpg?raw=true">
+<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur2.jpg.jpg?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur2.jpg?raw=true">
+<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur3.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur3.jpg?raw=true">
 	<figcaption>The Saboteur</figcaption>
 </figure>
