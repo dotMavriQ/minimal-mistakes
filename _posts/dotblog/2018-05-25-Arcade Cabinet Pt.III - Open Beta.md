@@ -22,9 +22,11 @@ I.. must say I thought the event was gonna be a bit more sizeable, not that I'm 
 We did do some networking as well, talking to Mattis, an old friend of mine, he shook hands with us and promised that he'd do the paint job for the cabinet which makes me really happy as he's talented with that stuff. We also talked to Nelly who makes her own comics, we might do some stuff together in the future for sure. 
 
 <figure class="half">
-    <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/flames.png?raw=true"><img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/flames.png?raw=true"></a>
+    <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180525_MS.jpg?raw=true"><img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180525_MS.jpg?raw=true"></a>
     <figcaption>The Arcade Cabinet BETA displayed at Nördmässan 2018</figcaption>
 </figure>
+
+
 
 Saddest moment was probably just being struck by hunger and fatigue only to be met with well meaning kids kindly asking us to start the VR for like the fifth time hahah.. but yeah the people that work with LDF and Con made the experience an all in all nice one, here's to hoping there will be more so that MakerSpace can show its face again and actually get some creative minds to join in! 
 
