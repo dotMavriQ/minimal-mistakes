@@ -42,6 +42,30 @@
         </li>
       {% endif %}
 
+      {% if author.bitbucket %}
+      <li>
+        <a href="https://bitbucket.org/{{ author.bitbucket }}" itemprop="sameAs">
+          <i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket
+        </a>
+      </li>
+    {% endif %}
+
+    {% if author.codepen %}
+    <li>
+      <a href="https://codepen.io/{{ author.codepen }}" itemprop="sameAs">
+        <i class="fa fa-fw fa-codepen" aria-hidden="true"></i> CodePen
+      </a>
+    </li>
+  {% endif %}
+
+      {% if author.dribbble %}
+      <li>
+        <a href="https://dribbble.com/{{ author.dribbble }}" itemprop="sameAs">
+          <i class="fa fa-fw fa-dribbble" aria-hidden="true"></i> Dribbble
+        </a>
+      </li>
+    {% endif %}
+
       {% if author.email %}
         <li>
           <a href="mailto:{{ author.email }}">
@@ -51,6 +75,54 @@
         </li>
       {% endif %}
 
+      {% if author.emocore %}
+      <li>
+        <a href="https://www.emocore.se/{{ author.emocore }}" itemprop="sameAs">
+          <i class="fa fa-fw fa-frown-o" aria-hidden="true"></i> Emocore
+        </a>
+      </li>
+    {% endif %}
+
+    {% if author.facebook %}
+    <li>
+      <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
+        <i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+      </a>
+    </li>
+  {% endif %}
+
+  {% if author.github %}
+  <li>
+    <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+      <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+    </a>
+  </li>
+{% endif %}
+
+{% if author.gitlab %}
+  <li>
+    <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs">
+      <i class="fa fa-fw fa-gitlab" aria-hidden="true"></i> GitLab
+    </a>
+  </li>
+{% endif %}
+
+    {% if author.google_plus %}
+    <li>
+      <a href="https://plus.google.com/{{ author.google_plus }}" itemprop="sameAs">
+        <i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+
+      </a>
+    </li>
+  {% endif %}
+
+  {% if author.instagram %}
+  <li>
+    <a href="https://instagram.com/{{ author.instagram }}" itemprop="sameAs">
+      <i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram
+    </a>
+  </li>
+{% endif %}
+
       {% if author.keybase %}
         <li>
           <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs">
@@ -58,6 +130,14 @@
           </a>
         </li>
       {% endif %}
+
+      {% if author.linkedin %}
+      <li>
+        <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
+          <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
+        </a>
+      </li>
+    {% endif %}
 
       {% if author.twitter %}
         <li>
@@ -67,74 +147,10 @@
         </li>
       {% endif %}
 
-      {% if author.facebook %}
-        <li>
-          <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.google_plus %}
-        <li>
-          <a href="https://plus.google.com/{{ author.google_plus }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.linkedin %}
-        <li>
-          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.emocore %}
-        <li>
-          <a href="https://www.emocore.se/{{ author.emocore }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-frown-o" aria-hidden="true"></i> Emocore
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.instagram %}
-        <li>
-          <a href="https://instagram.com/{{ author.instagram }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram
-          </a>
-        </li>
-      {% endif %}
-
       {% if author.tumblr %}
         <li>
           <a href="https://{{ author.tumblr }}.tumblr.com" itemprop="sameAs">
             <i class="fa fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.bitbucket %}
-        <li>
-          <a href="https://bitbucket.org/{{ author.bitbucket }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.github %}
-        <li>
-          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.gitlab %}
-        <li>
-          <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-gitlab" aria-hidden="true"></i> GitLab
           </a>
         </li>
       {% endif %}
@@ -151,14 +167,6 @@
         <li>
           <a href="https://last.fm/user/{{ author.lastfm }}" itemprop="sameAs">
             <i class="fa fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.dribbble %}
-        <li>
-          <a href="https://dribbble.com/{{ author.dribbble }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-dribbble" aria-hidden="true"></i> Dribbble
           </a>
         </li>
       {% endif %}
@@ -203,14 +211,6 @@
         {% endif %}
       {% endif %}
 
-      {% if author.soundcloud %}
-        <li>
-          <a href="https://soundcloud.com/{{ author.soundcloud }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-soundcloud" aria-hidden="true"></i> SoundCloud
-          </a>
-        </li>
-      {% endif %}
-
       {% if author.weibo %}
         <li>
           <a href="https://www.weibo.com/{{ author.weibo }}" itemprop="sameAs">
@@ -223,14 +223,6 @@
         <li>
           <a href="https://www.flickr.com/{{ author.flickr }}" itemprop="sameAs">
             <i class="fa fa-fw fa-flickr" aria-hidden="true"></i> Flickr
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.codepen %}
-        <li>
-          <a href="https://codepen.io/{{ author.codepen }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-codepen" aria-hidden="true"></i> CodePen
           </a>
         </li>
       {% endif %}
