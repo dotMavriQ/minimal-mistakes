@@ -8,9 +8,6 @@ tags:
   - bethesda
   - rants
   - videogames
-
-  header:
-  teaser: https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/Fallout_76.png?raw=true
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZOfMttL_Io?start=2787" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Nukes? since when? 
