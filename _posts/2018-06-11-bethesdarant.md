@@ -9,7 +9,7 @@ tags:
   - rants
   - videogames
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LZOfMttL_Io" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LZOfMttL_Io?start=2787" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Nukes? since when? 
 Ugh.. 
 Worse-than-DRM-lock business approach where modding won't be possible. Servers for years? Yeah? And then what? Fallout taking a step into planned obsolescence? 
