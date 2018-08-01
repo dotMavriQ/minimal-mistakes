@@ -20,7 +20,7 @@ Not a single game got a strong focus on story, it's product pitch, I get it.. bu
 
 <figure class="half">
     <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/Fallout_76.png?raw=true"><img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/Fallout_76.png?raw=true"></a>
-    <figcaption>The Arcade Cabinet BETA displayed at Nördmässan 2018</figcaption>
+    <figcaption>Logo for Fallout 76</figcaption>
 </figure>
 
 And in regards to Blades...
