@@ -29,6 +29,8 @@ Last night I bought and played The Saboteur from GoG.com. It's classic game I ne
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur3.jpg?raw=true">
 </figure>
 
+---
+
 I will have to play it some more to leave a more proper review.  
 
 Tomorrow I think I'll write a piece on the Bethesda E3 showcase and the impressions I got from that.. I guess video games is what I deal in when I'm too messed up to bother with much else.. I have had a sharp headache since the tooth removal and not even high amounts of painkillers seem to help..
