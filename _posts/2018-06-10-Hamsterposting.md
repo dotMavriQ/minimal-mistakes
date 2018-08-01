@@ -26,8 +26,7 @@ Last night I bought and played The Saboteur from GoG.com. It's classic game I ne
 <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur2.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur2.jpg?raw=true"></a>
 <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur3.jpg?raw=true">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur3.jpg?raw=true"></a>
-</figure>
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180609_saboteur3.jpg?raw=true"></a></figure>
 
 ---
 
