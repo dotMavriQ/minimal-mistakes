@@ -1,5 +1,5 @@
 ---
-title: "CUTTING TEETH"
+title: "Cutting Teeth"
 comments: true
 categories:
   - blog
@@ -9,9 +9,7 @@ tags:
   - tooth
 ---
 
-<figure class="half">
-    <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/ca_dentist.png?raw=true"><img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/ca_dentist.png?raw=true"></a>
-</figure>
+
 Woke up ~09:00 in the morning and got as ready as I could get before my dear mother picked me up in the Toyota. 
 
 We had agreed that she could drive me to Skövde Käkkirurgiska because she had to tend to my grandmother who lives in Skara later anyway. 
@@ -25,6 +23,10 @@ I got A LOT of anaesthesia, and she had an incredible technique when she applied
 While the 'something-caine' sets in I changed clothes, set my hair in a net.. It was pretty reminiscent of last time I did it. 
 
 I got help finding the surgery room and then they started opening up a wound in order to remove the tooth. 
+
+<figure class="half">
+    <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/ca_dentist.png?raw=true"><img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/ca_dentist.png?raw=true"></a>
+</figure>
 
 They said something about changing a bag.. possibly a collection bag for blood or just some saline. 
 
