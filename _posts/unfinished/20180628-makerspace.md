@@ -1,4 +1,14 @@
-
+---
+title: "Third of August"
+comments: true
+categories:
+  - blog
+tags:
+  - blog
+  - life
+  - lidmake
+  - makerspace
+---
 Had an easy day with nothing special to report until the clock struck *17:30* and it was time to head to *MakerSpace*. 
 
 It's been a continued success with the smaller moves that we have made.
