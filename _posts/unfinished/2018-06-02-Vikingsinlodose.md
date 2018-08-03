@@ -58,13 +58,17 @@ Phil also tried throwing Axe and it was cool, the last try was so close to putti
 <figure>
 	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true"></a>
+  	<figcaption>Medieval bellow for blacksmithing.</figcaption>
   </figure>
-  <figure class="half">
+
+---
+
+<figure class="half">
     <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose2.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose2.jpg?raw=true"></a>
     <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose3.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose3.jpg?raw=true"></a>
-	<figcaption>The bellow, Phil throwing an axe, information about the bubonic plague in the Swedish middle ages.</figcaption>
+	<figcaption>Phil throwing an axe, information about the bubonic plague in the Swedish middle ages.</figcaption>
 </figure>
 
 We ended up falling short on time so we visited the museum for a little bit, read up on history, walked through the garden .. I saw **Kvanne**! (which I've always been intrigued to eat after a perverted look into my lineage showed me that I am a Walloon and Walloons apparently eat candied Kvanne.)
