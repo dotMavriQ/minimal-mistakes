@@ -1,5 +1,5 @@
 ---
-title: "Vikings in Lödöse"
+title: "Lödöse Vikingmarket"
 comments: true
 categories:
   - blog
