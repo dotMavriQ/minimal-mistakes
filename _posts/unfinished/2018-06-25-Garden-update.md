@@ -23,7 +23,7 @@ tags:
 * **Thyme** is nice and going strong.
 * Well hello there **Sallad**! 
 * **Radishes** galore! 
-* **Strawberries** are alive, no sign of strawberries though..
+* **Strawberry plants** are alive, no sign of strawberries though..
 * My **Penis Chili**-plant is growing, no ehrm.. fruits on it yet though.
 * **Ramson** is hanging in there..I guess?
 
