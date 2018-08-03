@@ -71,7 +71,7 @@ Phil also tried throwing Axe and it was cool, the last try was so close to putti
 	<figcaption>Phil throwing an axe, information about the bubonic plague in the Swedish middle ages.</figcaption>
 </figure>
 
-We ended up falling short on time so we visited the museum for a little bit, read up on history, walked through the garden .. I saw **Kvanne**! (which I've always been intrigued to eat after a perverted look into my lineage showed me that I am a Walloon and Walloons apparently eat candied Kvanne.)  
+We ended up falling short on time so we visited the museum for a little bit, read up on history, walked through the garden .. I saw **Kvanne**! (which I've always been intrigued to eat after a perverted look into my lineage showed me that I am a Walloon and Walloons apparently eat candied [Kvanne](https://en.wikipedia.org/wiki/Angelica_archangelica).)  
 
 We ended our little road trip with a stop by the Military Surplus store. It's a really cool store and love what they do but I guess the fact of the matter is that we don't have as much "*cool"* surplus going as when I was a kid so things are a bit expensive these days, at least for my budget, I ended up not buying anything and Phil bought a mallet.
 
