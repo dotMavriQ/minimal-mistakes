@@ -25,7 +25,7 @@ The most impressive thing to me was an old school Smith who stood there next to 
 Me and Phil also tried archery and I still have this fools luck with arching that feed my drive to want to pursue it more.
 My last shot landed on the corner of the Target in a way that impressed even the guy who stood at the arching booth. 
 
-Phil also tried throwing Axe and it was cool, last try was so close to putting in the block of wood but that stuff takes practise... And a sharper axe I think. 
+Phil also tried throwing Axe and it was cool, last try was so close to putting in the block of wood but that stuff takes practise... And a sharper axe, I think. 
 
 We ended up falling short on time so we visited the museum for a little bit, read up on history, walked through the garden .. I saw Kvanne which I've always been intrigued to eat after a perverted look into my lineage showed me that I am a Walloon and Walloons apparently eat candied Kvanne. 
 

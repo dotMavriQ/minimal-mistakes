@@ -100,7 +100,7 @@ author:
   linkedin         : jonatan-jansson-1285b17b
   pinterest        : dotmavriq
   reddit           : Dotmavriq
-  soundcloud       : slothberry
+  soundcloud       : dotmavriq
   stackoverflow    :  /4709832/dotmavriq
   steam            : dotmavriq # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           : dotmavriq
@@ -245,6 +245,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
