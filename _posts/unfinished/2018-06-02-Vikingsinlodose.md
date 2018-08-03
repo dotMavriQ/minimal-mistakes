@@ -77,11 +77,11 @@ The right home was neat, we ate at **Max** Hamburger Chain which is a Swedish fr
 
 Once home I carried the vacuum cleaner through the door, had some cookies and smoothie and then I slept for **FOUR HOURS**. Upon waking up Phil had already had dinner and well... I had food at home so I just decided to relax.
 
-<figure class="third">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose4.jpg?raw=true">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose4.jpg?raw=true">
-    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose5.jpg?raw=true">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose5.jpg?raw=true">
+<figure class="half">
+	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose4.jpg?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose4.jpg?raw=true"></a>
+    <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose5.jpg?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose5.jpg?raw=true"></a>
 	<figcaption>Historical representation of hanging, the Kvanne.</figcaption>
 </figure>
   
