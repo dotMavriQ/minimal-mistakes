@@ -1,4 +1,3 @@
-  
 ---
 title: "Third of August"
 comments: true
@@ -9,7 +8,7 @@ tags:
   - life
   - lastFM
   - Libre
-  
+
 ---
   
   Woke up too early to deal with laundry, but waking up next to Margarida makes all of that less horrible than it sounds.
