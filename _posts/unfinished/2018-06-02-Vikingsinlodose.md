@@ -83,7 +83,7 @@ We ended our little road trip with a stop by the Military Surplus store. It's a 
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose5.jpg?raw=true"></a>
   	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose6.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose6.jpg?raw=true"></a>
-	<figcaption>Historical representation of hanging, the Kvanne.</figcaption>
+	<figcaption>Kvanne or Angelica Archangelica, the tank outside of the military surplus store.</figcaption>
 </figure>
   
 The ride home was neat, we ate at **Max** Hamburger Chain which is a Swedish franchise and boy do they slay McDonalds and Burger King *by miles*. **The Frisco Burger** was just a tiny improvement in dressing away from being something I would miss to have around on a regular basis, it's tasty fast food, and I'm usually against all that stuff (franchise fast food that is).
