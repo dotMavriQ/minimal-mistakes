@@ -9,14 +9,13 @@ tags:
   - life
   - lastFM
   - Libre
-  - scrobbling
 ---
   
   Woke up too early to deal with laundry, but waking up next to Margarida makes all of that less horrible than it sounds.
   I don't know what the hell happened last night but my stomache was possessed by some demonic power, I think it has settled though.
 
   I think it'll be a day in slow gear, might give the Mother 3 fan translation another go, I played some last night but lost my save somehow.. 
-  But boy what a lovely game it is, it really feels like it's building up to grant the same level of cozy as the ever famous Earthbound.
+  But boy what a lovely game it is, it really feels like it's building up to grant the same level of cozy as the ever famous
 
 ## This will be my last LastFM
 
