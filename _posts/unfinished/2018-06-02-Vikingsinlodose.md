@@ -56,7 +56,7 @@ Phil also tried throwing Axe and it was cool, the last try was so close to putti
 ---
 
 <figure>
-	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true">
+	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true" height="50%" width="50%">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true"></a>
   	<figcaption>Medieval bellow for blacksmithing.</figcaption>
   </figure>
