@@ -29,7 +29,7 @@ Some might be censored for [PC](https://en.wikipedia.org/wiki/Political_correctn
 
   
 
-We eventually settle outside of **Lödöse museum** and after a really gratifying visit to the Water Closet, it was time to pay 100kr to enter.
+We eventually settle outside of **[Lödöse museum](https://www.fotevikensmuseum.se/d/en/vikingar/vikingamarknaden/2018)** and after a really gratifying visit to the Water Closet, it was time to pay 100kr to enter.
 
   
 
