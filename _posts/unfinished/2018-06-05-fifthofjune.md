@@ -13,7 +13,7 @@ One thing is for certain though, it is REALLY hot outside, bringing both the goo
 
 ---
 
-I saw an ad for Mindly, some sort of app for people with mental health issues. I saw that they their Google App Store information was flawed and had them fix it, good deed of the day: **cleared!**
+I saw an ad for [Mindler](https://play.google.com/store/apps/details?id=se.mindler.video), some sort of app for people with mental health issues. I saw that they their Google App Store information was flawed and had them fix it, good deed of the day: **cleared!**
 
 
 My garden seems to be doing well... that's good, I like that. Still haven't had a single strawberry though.. might be the birds..might be the neighbours kids but I'll keep it light with the Alex Jones accusations, it's just strawberries. 
