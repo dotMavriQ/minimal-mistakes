@@ -59,7 +59,7 @@ Phil also tried throwing Axe and it was cool, the last try was so close to putti
 	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true"></a>
   </figure>
-  </figure class="half">
+  <figure class="half">
     <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose2.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose2.jpg?raw=true"></a>
     <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose3.jpg?raw=true">
