@@ -84,4 +84,4 @@ AirCat Föreningen
 * Vice President of the AirCat Foundation for Suicide Prevention.
 
 MakerSpace Lidköping
-* Founder and Secretary.
+* Founder and President.
