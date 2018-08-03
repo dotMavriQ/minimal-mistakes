@@ -1,5 +1,5 @@
 ---
-title: "Lödöse Vikingmarket"
+title: "Lödöse Viking Market"
 comments: true
 categories:
   - blog
