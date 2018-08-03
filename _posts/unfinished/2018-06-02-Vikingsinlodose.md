@@ -25,7 +25,7 @@ One thing though.. I noticed how incredibly selective Google Home is with pickin
 
 So many songs I wanted to listen to.. and the Spotify interface was too road safe to even allow me to search properly and the voice function didn't pick the damn songs I wanted to hear, didn't matter if it was me or Phil asking the same thing.
 
-Some might be censored for PC reasons I guess.. wouldn't want Google VUI accidentally playing [xAxCx](https://open.spotify.com/track/2xx7b4eug8nXaQkiBm10RT?si=DHUQjCriRiOtn8fvodLMUw) for the kids, *right*?
+Some might be censored for [PC](https://en.wikipedia.org/wiki/Political_correctness) reasons I guess.. wouldn't want Google VUI accidentally playing [xAxCx](https://open.spotify.com/track/2xx7b4eug8nXaQkiBm10RT?si=DHUQjCriRiOtn8fvodLMUw) for the kids, *right*?
 
   
 
