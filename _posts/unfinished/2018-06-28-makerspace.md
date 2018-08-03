@@ -17,7 +17,7 @@ From having started the endeavour with Phil just a couple of weeks ago I have a 
 
 We went to the MakerSpace HQ to check in on the new computer that was kindly donated to us by [Anders](https://se.linkedin.com/in/anders-wik-998a8255). 
 
-<figure>
+<figure class="half">
   <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180628_ms1.jpg?raw=true">
     <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180628_ms1.jpg?raw=true"></a>
     <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180628_ms2.jpg?raw=true">
@@ -29,7 +29,9 @@ I also have this mockup for the posters that we plan on putting up all over town
 <figure>
   <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/MakerMockUp.png?raw=true">
     <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/MakerMockUp.png?raw=true"></a>
-    </figure>
+ </figure>
+
+
 
 yeah.. that's about it for today I think, the other guys had other obligations for the day, might get a bit more crazy and creative in the coming weeks, we'll see! 
 
