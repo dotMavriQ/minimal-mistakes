@@ -56,12 +56,12 @@ Phil also tried throwing Axe and it was cool, the last try was so close to putti
 ---
 
 <figure class="third">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose1.jpg?raw=true">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose1.jpg?raw=true">
-    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose2.jpg?raw=true">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose2.jpg?raw=true">
-    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose3.jpg?raw=true">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180602_lodose3.jpg?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true">
+    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose2.jpg?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose2.jpg?raw=true">
+    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose3.jpg?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose3.jpg?raw=true">
 	<figcaption>The bellow, Phil throwing an axe, information about the bubonic plague in the Swedish middle ages.</figcaption>
 </figure>
 
