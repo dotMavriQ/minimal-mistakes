@@ -19,7 +19,7 @@ We went to the MakerSpace HQ to check in on the new computer that was kindly don
 
 <figure>
   <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180628_ms1.jpg?raw=true">
-    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180628_ms1gardenupdate.jpg?raw=true"></a>
+    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180628_ms1.jpg?raw=true"></a>
     <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180628_ms2.jpg?raw=true">
     <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180628_ms2.jpg?raw=true"></a>
     </figure>
@@ -27,8 +27,8 @@ We went to the MakerSpace HQ to check in on the new computer that was kindly don
 I also have this mockup for the posters that we plan on putting up all over town in an effort to advertise so that anyone that seems interested knows that we exist.
 
 <figure>
-  <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/MakerMockUp.jpg?raw=true">
-    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/MakerMockUp.jpg?raw=true"></a>
+  <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/MakerMockUp.png?raw=true">
+    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/MakerMockUp.png?raw=true"></a>
     </figure>
 
 yeah.. that's about it for today I think, the other guys had other obligations for the day, might get a bit more crazy and creative in the coming weeks, we'll see! 
