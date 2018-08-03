@@ -22,8 +22,8 @@ My parents had me over for dinner and after a couple of days of toothache it sur
 I was served a burger on sour dough bread baked by my father with delicious coleslaw.
 
 <figure class="half">
-	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180605_mindlerfix.jpg?raw=true">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180605_mindlerfix.jpg?raw=true"></a>
+	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180605_mindlerfix.png?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180605_mindlerfix.png?raw=true"></a>
   	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180605_burger.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180605_burger.jpg?raw=true"></a>
   	<figcaption>The fix I posted for Mindler, the burger I had at my parents.</figcaption>
