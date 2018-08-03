@@ -71,17 +71,10 @@ Phil also tried throwing Axe and it was cool, the last try was so close to putti
 	<figcaption>Phil throwing an axe, information about the bubonic plague in the Swedish middle ages.</figcaption>
 </figure>
 
-We ended up falling short on time so we visited the museum for a little bit, read up on history, walked through the garden .. I saw **Kvanne**! (which I've always been intrigued to eat after a perverted look into my lineage showed me that I am a Walloon and Walloons apparently eat candied Kvanne.)
-
-  
+We ended up falling short on time so we visited the museum for a little bit, read up on history, walked through the garden .. I saw **Kvanne**! (which I've always been intrigued to eat after a perverted look into my lineage showed me that I am a Walloon and Walloons apparently eat candied Kvanne.)  
 
 We ended our little road trip with a stop by the Military Surplus store. It's a really cool store and love what they do but I guess the fact of the matter is that we don't have as much "*cool"* surplus going as when I was a kid so things are a bit expensive these days, at least for my budget, I ended up not buying anything and Phil bought a mallet.
 
-  
-
-The right home was neat, we ate at **Max** Hamburger Chain which is a Swedish franchise and boy do they slay McDonalds and Burger King *by miles*. **The Frisco Burger** was just a tiny improvement in dressing away from being something I would miss to have around on a regular basis, it's tasty fast food, and I'm usually against all that stuff (franchise fast food that is).
-
-Once home I carried the vacuum cleaner through the door, had some cookies and smoothie and then I slept for **FOUR HOURS**. Upon waking up Phil had already had dinner and well... I had food at home so I just decided to relax.
 
 <figure class="half">
 	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose4.jpg?raw=true">
@@ -91,6 +84,9 @@ Once home I carried the vacuum cleaner through the door, had some cookies and sm
 	<figcaption>Historical representation of hanging, the Kvanne.</figcaption>
 </figure>
   
+The ride home was neat, we ate at **Max** Hamburger Chain which is a Swedish franchise and boy do they slay McDonalds and Burger King *by miles*. **The Frisco Burger** was just a tiny improvement in dressing away from being something I would miss to have around on a regular basis, it's tasty fast food, and I'm usually against all that stuff (franchise fast food that is).
+
+Once home I carried the vacuum cleaner through the door, had some cookies and smoothie and then I slept for **FOUR HOURS**. Upon waking up Phil had already had dinner and well... I had food at home so I just decided to relax.
 
 Tried playing **Wasteland 2** for a bit but my graphics card is *too beat up*... It's depressing, I really need to put decent money down on a good computer right, ~~ugh~~.
 
