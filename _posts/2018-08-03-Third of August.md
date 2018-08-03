@@ -68,5 +68,4 @@ I could attempt to transfer ALL of my old songs as well with some sort of script
 Until then I at least secured some online estate by creating a new LastFM-account under the name of dotMavriq, and my website now links to this one instead as well.
 
 ## SOTD:
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:4LAj4kEOVv2kQRrmBUVcRA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:1DCeBMEXMOZr3OEGIbViiV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
