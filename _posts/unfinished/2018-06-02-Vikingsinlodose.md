@@ -58,7 +58,9 @@ Phil also tried throwing Axe and it was cool, the last try was so close to putti
 <figure class="half">
 	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose1.jpg?raw=true"></a>
-  	<figcaption>Medieval bellow for blacksmithing.</figcaption>
+  	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose4.jpg?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose4.jpg?raw=true"></a>
+  	<figcaption>Medieval bellow for blacksmithing, historical representation of a hanging.</figcaption>
   </figure>
 
 ---
@@ -77,10 +79,10 @@ We ended our little road trip with a stop by the Military Surplus store. It's a 
 
 
 <figure class="half">
-	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose4.jpg?raw=true">
-	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose4.jpg?raw=true"></a>
     <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose5.jpg?raw=true">
 	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose5.jpg?raw=true"></a>
+  	<a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose6.jpg?raw=true">
+	<img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180602_lodose6.jpg?raw=true"></a>
 	<figcaption>Historical representation of hanging, the Kvanne.</figcaption>
 </figure>
   
