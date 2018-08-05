@@ -2,7 +2,7 @@
 title: "Configuration"
 permalink: /docs/configuration/
 excerpt: "Settings for configuring and customizing the theme."
-last_modified_at: 2017-11-06T16:17:34-05:00
+last_modified_at: 2018-03-20T15:59:26-04:00
 toc: true
 ---
 
@@ -35,6 +35,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 {: .notice--warning}
 
 #### Air skin: `air`
+
 {:.no_toc}
 
 <figure class="half">
@@ -44,6 +45,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 </figure>
 
 #### Aqua skin: `aqua`
+
 {:.no_toc}
 
 <figure class="half">
@@ -53,6 +55,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 </figure>
 
 #### Contrast skin: `contrast`
+
 {:.no_toc}
 
 <figure class="half">
@@ -62,6 +65,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 </figure>
 
 #### Dark skin: `dark`
+
 {:.no_toc}
 
 <figure class="half">
@@ -71,6 +75,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 </figure>
 
 #### Dirt skin: `dirt`
+
 {:.no_toc}
 
 <figure class="half">
@@ -80,6 +85,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 </figure>
 
 #### Mint skin: `mint`
+
 {:.no_toc}
 
 <figure class="half">
@@ -89,6 +95,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 </figure>
 
 #### Neon skin: `neon`
+
 {:.no_toc}
 
 <figure class="half">
@@ -98,6 +105,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 </figure>
 
 #### Neon skin: `plum`
+
 {:.no_toc}
 
 <figure class="half">
@@ -107,6 +115,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 </figure>
 
 #### Sunrise skin: `sunrise`
+
 {:.no_toc}
 
 <figure class="half">
@@ -119,9 +128,9 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 `site.locale` is used to declare the primary language for each web page within the site.
 
-*Example:* `locale: "en-US"` sets the `lang` attribute for the site to the *United States* flavor of English, while `en-GB` would be for the `United Kingdom` style of English. Country codes are optional and the shorter variation `locale: "en"` is also acceptable. To find your language and country codes check this [reference table](https://msdn.microsoft.com/en-us/library/ee825488(v=cs.20).aspx). 
+_Example:_ `locale: "en-US"` sets the `lang` attribute for the site to the _United States_ flavor of English, while `en-GB` would be for the `United Kingdom` style of English. Country codes are optional and the shorter variation `locale: "en"` is also acceptable. To find your language and country codes check this [reference table](<https://msdn.microsoft.com/en-us/library/ee825488(v=cs.20).aspx>).
 
-Properly setting the locale is important for associating localized text found in the [**UI Text**]({{ "/docs/ui-text/" | absolute_url }}) data file. An improper match will cause parts of the UI to disappear (eg. button labels, section headings, etc).
+Properly setting the locale is important for associating localized text found in the [**UI Text**]({{ "/docs/ui-text/" | relative_url }}) data file. An improper match will cause parts of the UI to disappear (eg. button labels, section headings, etc).
 
 **Note:** The theme comes with localized text in English (`en`, `en-US`, `en-GB`). If you change `locale` in `_config.yml` to something else, most of the UI text will go blank. Be sure to add the corresponding locale key and translated text to `_data/ui-text.yml` to avoid this.
 {: .notice--warning}
@@ -130,11 +139,11 @@ Properly setting the locale is important for associating localized text found in
 
 The name of your site. Is used throughout the theme in places like the site masthead and `<title>` tags.
 
-*Example:* `title: "My Awesome Site"`
+_Example:_ `title: "My Awesome Site"`
 
 You also have the option of customizing the separation character used in SEO-friendly page titles.
 
-*Example:* `title_separator: "|"` would produce page titles like `Sample Page | My Awesome Site`.
+_Example:_ `title_separator: "|"` would produce page titles like `Sample Page | My Awesome Site`.
 
 **Note:** Long site titles have been known to break the masthead layout. Avoid adding a long "tagline" to the title prevent this from happening eg. `My Awesome Site is the Best Because I Say So".
 {: .notice--warning}
@@ -143,7 +152,7 @@ You also have the option of customizing the separation character used in SEO-fri
 
 Used to assign a site author. Don't worry, you can override the site author with different ones on specific posts, pages, or collection documents.
 
-*Example:* `name: "Michael Rose"`.
+_Example:_ `name: "Michael Rose"`.
 
 **ProTip:** If you want to get crafty with your YAML you can use [anchors](http://www.yaml.org/spec/1.2/spec.html#id2785586) to reuse values. For example `foo: &var "My String"` allows you to reuse `"My String"` elsewhere in `_config.yml` like so... `bar: *var`. You'll see a few examples of this in the provided Jekyll config.
 {: .notice--info}
@@ -152,7 +161,7 @@ Used to assign a site author. Don't worry, you can override the site author with
 
 Fairly obvious. `site.description` describes the site. Used predominantly in meta descriptions for improving SEO.
 
-*Example:* `description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."`
+_Example:_ `description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."`
 
 ### Site URL
 
@@ -171,7 +180,7 @@ In the case of the Minimal Mistakes demo site it's hosted on GitHub at <https://
 
 For more information on how to properly use `site.url` and `site.baseurl` as intended by the Jekyll maintainers, check [Parker Moore's post on the subject](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/).
 
-**Note:** When using `baseurl` remember to include it as part of your path when testing your site locally. Values of `url: ` and `baseurl: "/blog"` would make your local site visible at `http://localhost:4000/blog` and not `http://localhost:4000`.
+**Note:** When using `baseurl` remember to include it as part of your path when testing your site locally. Values of `url:` and `baseurl: "/blog"` would make your local site visible at `http://localhost:4000/blog` and not `http://localhost:4000`.
 {: .notice--warning}
 
 ### Site Repository
@@ -224,7 +233,7 @@ header:
 ```
 
 <figure>
-  <img src="{{ '/assets/images/mm-teaser-images-example.jpg' | absolute_url }}" alt="teaser image example">
+  <img src="{{ '/assets/images/mm-teaser-images-example.jpg' | relative_url }}" alt="teaser image example">
   <figcaption>Example of teaser images found in the related posts module.</figcaption>
 </figure>
 
@@ -235,19 +244,19 @@ Enable breadcrumb links to help visitors better navigate deep sites. Because of 
 1. Use a category based permalink structure e.g. `permalink: /:categories/:title/`
 2. Manually create pages for each category or use a plugin like [jekyll-archives][jekyll-archives] to auto-generate them. If these pages don't exist breadcrumb links to them will be broken.
 
-![breadcrumb navigation example]({{ "/assets/images/mm-breadcrumbs-example.jpg" | absolute_url }})
+![breadcrumb navigation example]({{ "/assets/images/mm-breadcrumbs-example.jpg" | relative_url }})
 
 ```yaml
 breadcrumbs: true  # disabled by default
 ```
 
-Breadcrumb start link text and separator character can both be changed in the [UI Text data file]({{ "/docs/ui-text/" | absolute_url }}).
+Breadcrumb start link text and separator character can both be changed in the [UI Text data file]({{ "/docs/ui-text/" | relative_url }}).
 
 ### Reading Time
 
-Enable estimated reading time snippets with `read_time: true` in YAML Front Matter. `200` has been set as the default words per minute value --- which can be changed by adjusting `words_per_minute: ` in `_config.yml`.
+Enable estimated reading time snippets with `read_time: true` in YAML Front Matter. `200` has been set as the default words per minute value --- which can be changed by adjusting `words_per_minute:` in `_config.yml`.
 
-![reading time example]({{ "/assets/images/mm-read-time-example.jpg" | absolute_url }})
+![reading time example]({{ "/assets/images/mm-read-time-example.jpg" | relative_url }})
 
 Instead of adding `read_time: true` to each post, apply as a default in `_config.yml` like so:
 
@@ -265,10 +274,10 @@ To disable reading time for a post, add `read_time: false` its YAML Front Matter
 
 ### Comments
 
-[**Disqus**](https://disqus.com/), [**Discourse**](https://www.discourse.org/), [**Facebook**](https://developers.facebook.com/docs/plugins/comments), **Google+**, and static-based commenting via [**Staticman**](https://staticman.net/) are built into the theme. First set the comment provider you'd like to use: 
+[**Disqus**](https://disqus.com/), [**Discourse**](https://www.discourse.org/), [**Facebook**](https://developers.facebook.com/docs/plugins/comments), **Google+**, and static-based commenting via [**Staticman**](https://staticman.net/) are built into the theme. First set the comment provider you'd like to use:
 
 | Name             | Comment Provider          |
-| ----             | ----------------          |
+| ---------------- | ------------------------- |
 | **disqus**       | Disqus                    |
 | **discourse**    | Discourse                 |
 | **facebook**     | Facebook Comments         |
@@ -292,6 +301,10 @@ defaults:
 ```
 
 If you add `comments: false` to a post's YAML Front Matter it will override the default and disable comments for just that post.
+
+**Note:** Comments are disabled by default in `development`. To enable when testing/building locally be sure to set
+`JEKYLL_ENV=production` to [force the environment](http://jekyllrb.com/docs/configuration/#specifying-a-jekyll-environment-at-build-time) to production.
+{: .notice--info}
 
 ##### Disqus
 
@@ -317,7 +330,7 @@ comments:
 
 **Note:** Do not include `http://` or `https://` when setting your Discourse `server`. The theme automatically prepends the URL `//`, following a scheme-less pattern.
 {: .notice--info}
-  
+
 ##### Facebook Comments
 
 To enable Facebook Comments choose how many comments you'd like visible per post and the color scheme of the widget.
@@ -335,10 +348,13 @@ comments:
 
 Transform user comments into `_data` files that live inside of your GitHub repository by enabling Staticman.
 
+**Note:** Looking to migrate comments from a WordPress based site? Give [this tool](https://github.com/arthurlacoste/wordpress-comments-jekyll-staticman) a try.
+{: .notice--info}
+
 ###### Add Staticman as a Collaborator
 
 1. Allow Staticman push access to your GitHub repository by clicking on **Settings**, then the **Collaborators** tab and adding `staticmanapp` as a collaborator.
-2. To accept the pending invitation visit: `https://api.staticman.net/v2/connect/{your GitHub username}/{your repository name}`. Consult the Staticman "[Get Started](https://staticman.net/get-started)" guide for more info.
+2. To accept the pending invitation visit: `https://api.staticman.net/v2/connect/{your GitHub username}/{your repository name}`. Consult the Staticman "[Get Started](https://staticman.net/docs/index.html)" guide for more info.
 
 ###### Configure Staticman
 
@@ -381,11 +397,11 @@ staticman:
 {: .notice--info}
 
 **Note:** Staticman is currently only compatible with GitHub based repositories. [Support for GitLab Pages](https://github.com/eduardoboucas/staticman/issues/22) is planned but not available yet.
-{: .notice--warning} 
+{: .notice--warning}
 
 **Staticman v1 (deprecated)**
 
-Default settings have been provided in `_config.yml`. The important ones to set are  `provider: "staticman"`, `branch`, and `path`. View the [full list of configurations](https://staticman.net/docs/configuration).
+Default settings have been provided in `_config.yml`. The important ones to set are `provider: "staticman"`, `branch`, and `path`. View the [full list of configurations](https://staticman.net/docs/configuration).
 
 ```yaml
 # _config.yml (defaults)
@@ -418,7 +434,7 @@ To skip this moderation step simply set `moderation: false`.
 **ProTip:** Create a GitHub webhook that sends a `POST` request to the following payload URL `https://api.staticman.net/v2/webhook` and triggers a "Pull request" event to delete Staticman branches on merge.
 {: .notice--info}
 
-![pull-request webhook]({{ "/assets/images/mm-staticman-pr-webhook.jpg" | absolute_url }})
+![pull-request webhook]({{ "/assets/images/mm-staticman-pr-webhook.jpg" | relative_url }})
 
 ###### reCAPTCHA Support (v2 only)
 
@@ -448,6 +464,95 @@ atom_feed:
 ```
 
 **Note:** By default the site feed is linked in two locations: inside the [`<head>` element](https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/head.html) and at the bottom of every page in the [site footer](https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/footer.html).
+{: .notice--info}
+
+### Site Search
+
+To enable site-wide search add `search: true` to your `_config.yml`.
+
+![masthead search example]({{ "/assets/images/masthead-search.gif" | relative_url }})
+
+#### Lunr (default)
+
+The default search uses [**Lunr**](https://lunrjs.com/) to build a search index of all your documents. This method is 100% compatible with sites hosted on GitHub Pages.
+
+**Note:** Only the first 50 words of a post or page's body content is added to the Lunr search index. Setting `search_full_content` to `true` in your `_config.yml` will override this and could impact page load performance.
+{: .notice--warning}
+
+#### Algolia
+
+For faster and more relevant search ([see demo](https://mmistakes.github.io/minimal-mistakes-algolia-search/)):
+
+1. Add the [`jekyll-algolia`](https://github.com/algolia/jekyll-algolia) gem to your `Gemfile`, in the `:jekyll_plugins` section.
+
+   ```ruby
+   group :jekyll_plugins do
+     gem "jekyll-feed"
+     gem "jekyll-seo-tag"
+     gem "jekyll-sitemap"
+     gem "jekyll-paginate"
+     gem "jekyll-algolia"
+   end
+   ```
+
+   Once this is done, download all dependencies by running `bundle install`.
+
+2. Switch search providers from `lunr` to `algolia` in your `_config.yml` file:
+
+   ```yaml
+   search_provider: algolia
+   ```
+
+3. Add the following Algolia credentials to your `_config.yml` file. *If you don't have an Algolia account, you can open a free [Community plan](https://www.algolia.com/users/sign_up/hacker). Once signed in, you can grab your credentials from [your dashboard](https://www.algolia.com/licensing).*
+
+   ```yaml
+   algolia:
+     application_id: # YOUR_APPLICATION_ID
+     index_name: # YOUR_INDEX_NAME
+     search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+     powered_by: # true (default), false
+   ```
+
+4. Once your credentials are setup, you can run the indexing with the following command:
+
+   ```
+   ALGOLIA_API_KEY=your_admin_api_key bundle exec jekyll algolia
+   ```
+
+   For Windows users you will have to use `set` to assigned the `ALGOLIA_API_KEY` environment variable.
+
+   ```
+   set ALGOLIA_API_KEY=your_admin_api_key
+   bundle exec jekyll algolia
+   ```
+
+   Note that `ALGOLIA_API_KEY` should be set to your admin API key.
+
+To use the Algolia search with GitHub Pages hosted sites follow [this deployment guide](https://community.algolia.com/jekyll-algolia/github-pages.html). Or this guide for [deploying on Netlify](https://community.algolia.com/jekyll-algolia/netlify.html).
+
+**Note:** The Jekyll Algolia plugin can be configured in several ways. Be sure to check out [their full documentation](https://community.algolia.com/jekyll-algolia/options.html "Algolia configuration") on how to exclude files and other valuable settings.
+{: .notice--info}
+
+#### Google Custom Search Engine
+
+Add a Google search box to your site.
+
+1. Create a **New search engine** in [Google Custom Search Engine](https://cse.google.com/cse/all), give it an appropriate name and setup "Sites to search" to your liking.
+
+2. Under **Look and feel** choose the "Results only" layout and a theme (*Minimalist* is a good choice to match the default look of the Minimal Mistakes).
+   
+   ![Google Custom Search Engine layout]({{ '/assets/images/google-custom-search-engine-layout.png' | relative_url }})
+
+3. Select "Save & Get Code" and grab your search engine ID from the line that begins with `var cx = 'YOUR_SEARCH_ENGINE_ID'`.
+
+4. Add your search engine ID to `_config.yml` like so:
+   
+   ```yaml
+   google:
+     search_engine_id: YOUR_SEARCH_ENGINE_ID
+   ```
+
+**Note:** If your site is new and hasn't been indexed by Google yet, search will be incomplete and won't provide accurate results.
 {: .notice--info}
 
 ### SEO, Social Sharing, and Analytics Settings
@@ -490,12 +595,8 @@ Much like Google and Bing you'll be provided with a meta description:
 Which you can add to your `_config.yml` like so:
 
 ```yaml
-naver-site-verification: "6BF5A01C0E650B479B612AC5A2184144"
+naver_site_verification: "6BF5A01C0E650B479B612AC5A2184144"
 ```
-
-#### Alexa
-
-To [claim your site](http://www.alexa.com/siteowners/claim) with Alexa add the provided verification ID `alexa_site_verification: "yourVerificationID"`.
 
 #### Yandex
 
@@ -517,7 +618,7 @@ To improve the appearance of links shared from your site to social networks like
 
 ##### Site Twitter Username
 
-Twitter username for the site. For pages that have custom author Twitter accounts assigned in their YAML Front Matter or data file, they will be attributed as a **creator** in the Twitter Card. 
+Twitter username for the site. For pages that have custom author Twitter accounts assigned in their YAML Front Matter or data file, they will be attributed as a **creator** in the Twitter Card.
 
 For example if my site's Twitter account is `@mmistakes-theme` I would add the following to `_config.yml`
 
@@ -560,19 +661,19 @@ og_image: /assets/images/site-logo.png
 ```
 
 <figure>
-  <img src="{{ '/assets/images/mm-twitter-card-summary-image.jpg' | absolute_url }}" alt="Twitter Card summary example">
+  <img src="{{ '/assets/images/mm-twitter-card-summary-image.jpg' | relative_url }}" alt="Twitter Card summary example">
   <figcaption>Example of a image placed in a Summary Card.</figcaption>
 </figure>
 
 Documents who have a `header.image` assigned in their YAML Front Matter will appear like this when shared on Twitter and Facebook.
 
 <figure>
-  <img src="{{ '/assets/images/mm-twitter-card-summary-large.jpg' | absolute_url }}" alt="page shared on Twitter">
+  <img src="{{ '/assets/images/mm-twitter-card-summary-large.jpg' | relative_url }}" alt="page shared on Twitter">
   <figcaption>Shared page on Twitter with header image assigned.</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/facebook-share-example.jpg' | absolute_url }}" alt="page shared on Facebook">
+  <img src="{{ '/assets/images/facebook-share-example.jpg' | relative_url }}" alt="page shared on Facebook">
   <figcaption>Shared page on Facebook with header image assigned.</figcaption>
 </figure>
 
@@ -597,27 +698,33 @@ social:
 Analytics is disabled by default. To enable globally select one of the following:
 
 | Name                 | Analytics Provider                                              |
-| ----                 | ------------------                                              |
+| -------------------- | --------------------------------------------------------------- |
 | **google**           | [Google Standard Analytics](https://www.google.com/analytics/)  |
 | **google-universal** | [Google Universal Analytics](https://www.google.com/analytics/) |
+| **google-gtag**      | [Google Analytics Global Site Tag)](https://www.google.com/analytics/) |
 | **custom**           | Other analytics providers                                       |
 
 For Google Analytics add your Tracking Code:
 
 ```yaml
 analytics:
-  provider: "google-universal"
+  provider: "google-gtag"
   google:
     tracking_id: "UA-1234567-8"
+    anonymize_ip: false # default
 ```
 
 To use another provider not included with the theme set `provider: "custom"` then add their embed code to `_includes/analytics-providers/custom.html`.
+
+**Note:** Analytics are disabled by default in `development`. To enable when testing/building locally be sure to set
+`JEKYLL_ENV=production` to [force the environment](http://jekyllrb.com/docs/configuration/#specifying-a-jekyll-environment-at-build-time) to production.
+{: .notice--info}
 
 ## Site Author
 
 Used as the defaults for defining what appears in the author sidebar.
 
-![author sidebar example]({{ "/assets/images/mm-author-sidebar-example.jpg" | absolute_url }})
+![author sidebar example]({{ "/assets/images/mm-author-sidebar-example.jpg" | relative_url }})
 
 **Note:** For sites with multiple authors these values can be overridden post by post with custom YAML Front Matter and a data file. For more information on how that works see below.
 {: .notice--info}
@@ -629,11 +736,12 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   email  : # optional
   uri    : "http://your-site.com"
+  home   : # null (default), "absolute or relative url to link to author home"
 ```
 
 Social media links are all optional, include the ones you want visible. In most cases you just need to add the username. If you're unsure double check `_includes/author-profile.html` to see how the URL is constructed.
 
-To add social media links not included with the theme or customize the author sidebar further, read the full [layout documentation]({{ "/docs/layouts/#author-profile" | absolute_url }}).
+To add social media links not included with the theme or customize the author sidebar further, read the full [layout documentation]({{ "/docs/layouts/#author-profile" | relative_url }}).
 
 ## Reading Files
 
@@ -705,7 +813,7 @@ If [using pagination](https://github.com/jekyll/jekyll-paginate) on the homepage
 paginate: 5
 ```
 
-You'll also need to include some Liquid and HTML to properly use the paginator, which you can find in the **Layouts** section under [Home Page]({{ "/docs/layouts/#home-page" | absolute_url }}).
+You'll also need to include some Liquid and HTML to properly use the paginator, which you can find in the **Layouts** section under [Home Page]({{ "/docs/layouts/#home-page" | relative_url }}).
 
 The paginator only works on files with name `index.html`. To use pagination in a subfolder --- for example `/recent/`, create `/recent/index.html` and set the `paginate_path` in `_config.yml` to this:
 
@@ -728,13 +836,13 @@ timezone: America/New_York
 
 When hosting with GitHub Pages a small [set of gems](https://pages.github.com/versions/) have been whitelisted for use. The theme uses a few of them which can be found under `gems`. Additional settings and configurations are documented in the links below.
 
-| Plugin                             | Description |
-| ------                             | ----------- |
-| [jekyll-paginate][jekyll-paginate] | Pagination Generator for Jekyll. |
-| [jekyll-sitemap][jekyll-sitemap] |Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site. |
-| [jekyll-gist][jekyll-gist] | Liquid tag for displaying GitHub Gists in Jekyll sites. |
-| [jekyll-feed][jekyll-feed] | A Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts. |
-| [jemoji][jemoji] | GitHub-flavored emoji plugin for Jekyll. |
+| Plugin                             | Description                                                                               |
+| ---------------------------------- | ----------------------------------------------------------------------------------------- |
+| [jekyll-paginate][jekyll-paginate] | Pagination Generator for Jekyll.                                                          |
+| [jekyll-sitemap][jekyll-sitemap]   | Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site. |
+| [jekyll-gist][jekyll-gist]         | Liquid tag for displaying GitHub Gists in Jekyll sites.                                   |
+| [jekyll-feed][jekyll-feed]         | A Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts.                 |
+| [jemoji][jemoji]                   | GitHub-flavored emoji plugin for Jekyll.                                                  |
 
 [jekyll-paginate]: https://github.com/jekyll/jekyll-paginate
 [jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap
@@ -746,7 +854,7 @@ If you're hosting elsewhere then you don't really have to worry about what is wh
 
 ## Archive Settings
 
-The theme ships with support for taxonomy (category and tag) pages. GitHub Pages hosted sites need to use a *Liquid only* approach while those hosted elsewhere can use plugins like [**jekyll-archives**][jekyll-archives] to generate these pages automatically.
+The theme ships with support for taxonomy (category and tag) pages. GitHub Pages hosted sites need to use a _Liquid only_ approach while those hosted elsewhere can use plugins like [**jekyll-archives**][jekyll-archives] to generate these pages automatically.
 
 [jekyll-archives]: https://github.com/jekyll/jekyll-archives
 
@@ -766,12 +874,13 @@ tag_archive:
 
 Which would create category and tag links in the breadcrumbs and page meta like: `/categories/#foo` and `/tags/#foo`.
 
-**Note:** these are simply hash (fragment) links into the full taxonomy index pages. For them to resolve properly, the category and tag index pages need to exist at [`/categories/index.html`](https://github.com/{{ site.repository }}/blob/master/docs/_pages/category-archive.html) (copy to `_pages/category-archive.html`) and [`/tags/index.html`](https://github.com/{{ site.repository }}/blob/master/docs/_pages/tag-archive.html) (copy to `_pages/tag-archive.html`). 
+**Note:** these are simply hash (fragment) links into the full taxonomy index pages. For them to resolve properly, the category and tag index pages need to exist at [`/categories/index.html`](https://github.com/{{ site.repository }}/blob/master/docs/_pages/category-archive.md) (copy to `_pages/category-archive.md`) and [`/tags/index.html`](https://github.com/{{ site.repository }}/blob/master/docs/_pages/tag-archive.md) (copy to `_pages/tag-archive.md`).
 {: .notice--warning}
 
-If you have the luxury of using Jekyll Plugins, then [**jekyll-archives**][jekyll-archives] will create a better experience as discrete  taxonomy pages would be generated, and their corresponding links would be "real" (not just hash/fragment links into a larger index). However, the plugin will not generate the taxonomy index pages (`category-archive.html` and `_pages/tag-archive.html`) so you'd still need to manually create them if you'd like to have them (see note above).
+If you have the luxury of using Jekyll Plugins, then [**jekyll-archives**][jekyll-archives] will create a better experience as discrete taxonomy pages would be generated, and their corresponding links would be "real" (not just hash/fragment links into a larger index). However, the plugin will not generate the taxonomy index pages (`category-archive.md` and `tag-archive.md`) so you'd still need to manually create them if you'd like to have them (see note above).
 
 First, you'll need to make sure that the `jekyll-archives` plugin is installed. Either run `gem install jekyll-archives` or add the following to your `Gemfile`:
+
 ```
 group :jekyll_plugins do
   gem "jekyll-archives"

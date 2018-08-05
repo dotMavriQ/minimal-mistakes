@@ -5,22 +5,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "gruvbox"
+minimal_mistakes_skin    : "dark"
 
 # Site Settings
-locale                   : "en"
-title                    : "dotmavriq"
+locale                   : "en-US"
+title                    : "dotMavriQ"
 title_separator          : "-"
 name                     : "dotMavriQ"
-description              : "the devblog of dotMavriQ"
+description              : "the website of dotMavriQ"
 url                      : "http://dotmavriq.life"
 baseurl                  : "/"
 repository               : "dotMavriQ/dotmavriq.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
- breadcrumbs            : false # true, false (default)
-words_per_minute         : 300
+  breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
 comments:
-  provider               :  "disqus"
+  provider               : "disqus"
   disqus:
     shortname            : dotMavriQ
   discourse:
@@ -51,16 +51,26 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       :  009787142954212280795:mboe5qgq01w
+  instant_search         :  true
 # SEO Related
-google_site_verification : 8nQmV43Q4l5F6NB36IJuDfup1z98GT0Y8P4pg2d2JqU
-bing_site_verification   : F3C67AD8250743FF76110127D01B4222
-alexa_site_verification  :
-yandex_site_verification : cd9f33b7cf79d3eb
-naver-site-verification  :
-#Social Sharing
+google_site_verification :  8nQmV43Q4l5F6NB36IJuDfup1z98GT0Y8P4pg2d2JqU
+bing_site_verification   :  F3C67AD8250743FF76110127D01B4222
+yandex_site_verification :  cd9f33b7cf79d3eb
+naver_site_verification  :
+
+# Social Sharing
 twitter:
-  username               : dotMavriQ
+  username               :  dotMavriQ
 facebook:
   username               :
   app_id                 :
@@ -78,6 +88,7 @@ analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
@@ -109,6 +120,7 @@ author:
   weibo            :
   emocore          : dotmavriq
   youtube          : "https://www.youtube.com/channel/UC6xq_geO2CtxjD9isOBzTxQ?view_as=subscriber"
+
 
 
 # Reading Files
@@ -176,7 +188,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:year/:month/:day/:title
-paginate: 5 # amount of posts to show
+paginate: 8 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -245,6 +257,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments:
+      comments: # true
       share: true
       related: true
