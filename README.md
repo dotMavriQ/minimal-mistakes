@@ -39,7 +39,7 @@ A Giant core update of the website functionality associated with the MinimalMist
 * Make that gruvbox pop more
 * Correctly link to Dothub in footer.
 * Correctly link to Lidmake in footer.
-* Frightening update of everything in Ruby, things such as Awesome-fonts are old et.c. et.c.
+* ~~Frightening update of everything in Ruby, things such as Awesome-fonts are old et.c. et.c.~~
 
 ## DOTSITES - BETA
 
