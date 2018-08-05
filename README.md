@@ -14,8 +14,6 @@
 
 ---
 
-## Dotmavriq
-
 This is my devblog where I speak my mind, show things that I've learned, make guides, tutorials, linklists, post recipes, journal entries.. whatever I see fit, on my own terms, Enjoy!
 
 ---
