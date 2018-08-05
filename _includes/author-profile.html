@@ -26,16 +26,6 @@
     </div>
   {% endif %}
 
-  {% if author.avatar %}
-    <div class="author__avatar">
-      {% if author.avatar contains "://" %}
-        <img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">
-      {% else %}
-        <img src="{{ author.avatar | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image">
-      {% endif %}
-    </div>
-  {% endif %}
-
   <div class="author__content">
     <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
     {% if author.bio %}
