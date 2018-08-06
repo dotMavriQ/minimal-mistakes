@@ -68,14 +68,6 @@
     </li>
   {% endif %}
 
-      {% if author.dribbble %}
-      <li>
-        <a href="https://dribbble.com/{{ author.dribbble }}" itemprop="sameAs">
-          <i class="fab fa-dribbble"></i> Dribbble
-        </a>
-      </li>
-    {% endif %}
-
       {% if author.email %}
         <li>
           <a href="mailto:{{ author.email }}">
@@ -218,32 +210,16 @@
         {% if author.youtube contains "://" %}
           <li>
             <a href="{{ author.youtube }}" itemprop="sameAs">
-              <i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube
+              <i class="fab fa-youtube-square"></i> YouTube
             </a>
           </li>
         {% else author.youtube %}
           <li>
             <a href="https://www.youtube.com/user/{{ author.youtube }}" itemprop="sameAs">
-              <i class="fab fa-youtube"></i> YouTube
+              <i class="fab fa-youtube-square"></i> YouTube
             </a>
           </li>
         {% endif %}
-      {% endif %}
-
-      {% if author.weibo %}
-        <li>
-          <a href="https://www.weibo.com/{{ author.weibo }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-weibo" aria-hidden="true"></i> Weibo
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.flickr %}
-        <li>
-          <a href="https://www.flickr.com/{{ author.flickr }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-flickr" aria-hidden="true"></i> Flickr
-          </a>
-        </li>
       {% endif %}
 
       {% include author-profile-custom-links.html %}
