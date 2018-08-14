@@ -40,7 +40,7 @@ Off we went to the bakery, bakery didn't have it and the entire town was crammed
 
 Went back to MakerSpace to have a meeting, the meeting went well and after that, me and Margarida went to Netto to buy food.
 
-I cooked us some food, and a really nice oat-risotto, food was good, took out the trash, cleaned the floor, adulting and all that.
+I cooked us some food, a really nice oat-risotto, food was good, took out the trash, cleaned the floor, adulting and all that.
 
 <figure>
   <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180809_foood.jpg?raw=true">
