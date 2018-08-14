@@ -8,7 +8,7 @@ tags:
   - life
 --- 
 Days start by waking up, right?
-Should really look into better ways of how to start my blogposts, I know.
+Should really look into better ways to start my blogposts, I know.
 
 Spent time with Margarida in the morning as I have been since she arrived, all is good, I love that woman.
 
