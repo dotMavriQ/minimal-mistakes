@@ -1,5 +1,5 @@
 ---
-title: "Ragged Wood"
+title: "A day of Beach and Risotto"
 comments: true
 categories:
   - blog
