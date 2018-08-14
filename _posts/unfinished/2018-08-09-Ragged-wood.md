@@ -36,8 +36,8 @@ Went back to MakerSpace to have a meeting, meeting went well and after that me a
 I cooked us some food, porkchops and a really nice oat-risotto, food was good, took out the trash, cleaned the floor, adulting and all that.
 
 <figure>
-  <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180809_foood.jpg?raw=true">
-    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/20180809_foood.jpg?raw=true"></a>
+  <a href="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180809_foood.jpg?raw=true">
+    <img src="https://github.com/dotMavriQ/dotmavriq.github.io/blob/master/assets/Camera/180809_foood.jpg?raw=true"></a>
     </figure>
 
 
