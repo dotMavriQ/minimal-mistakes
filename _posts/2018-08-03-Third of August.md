@@ -1,5 +1,5 @@
 ---
-title: "Third of August"
+title: "This will be my last LastFM"
 comments: true
 categories:
   - blog
