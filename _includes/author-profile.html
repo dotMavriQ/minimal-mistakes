@@ -109,6 +109,14 @@
   </li>
 {% endif %}
 
+{% if author.goodreads %}
+<li>
+  <a href="https://www.goodreads.com/user/show/{{ author.goodreads }}" itemprop="sameAs">
+    <i class="fab fa-goodreads"></i> Goodreads
+  </a>
+</li>
+{% endif %}
+
     {% if author.google_plus %}
     <li>
       <a href="https://plus.google.com/{{ author.google_plus }}" itemprop="sameAs">
