@@ -68,6 +68,15 @@
     </li>
   {% endif %}
 
+  {% if author.pinterest %}
+  <li>
+    <a href="https://www.duolingo.com{{ author.duolingo }}" itemprop="sameAs">
+      <i class="fab fa-earlybirds"></i> Duolingo
+    </a>
+  </li>
+{% endif %}
+
+
       {% if author.email %}
         <li>
           <a href="mailto:{{ author.email }}">
