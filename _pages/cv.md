@@ -1,7 +1,6 @@
 ---
 permalink: /cv/
 title: "CV"
-excerpt: "The Curriculum Vitae of Jonatan Jansson - the dotMavriQ"
 layouts_gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Creative-Tail-Halloween-owl.svg/140px-Creative-Tail-Halloween-owl.svg.png
     image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Creative-Tail-Halloween-owl.svg/140px-Creative-Tail-Halloween-owl.svg.png
