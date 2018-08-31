@@ -2,7 +2,7 @@
 permalink: /cv/
 title: "muh cv"
 author_profile: true
-last_modified_at: 2016-06-06
+last_modified_at: 2016-08-31
 toc: true
 ---
 <p style="text-align: center;">
