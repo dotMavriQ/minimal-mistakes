@@ -1,87 +1,56 @@
 ---
-title: "CV"
 permalink: /cv/
+title: "Terms and Privacy Policy"
+last_modified_at: 2016-06-06
+toc: true
 ---
-<p style="text-align: center;">
-Jonatan Jansson
-============
-</p>
-<p style="text-align: center;">
--------------------     ----------------------------
-Lidköping, Västra Götaland, Sweden
-Jonatanjansson2@gmail.com
--------------------     ----------------------------
-</p>
-Education
----------
-2016
-:   **Systems Developer Education**; Lexicon  (Skövde)
 
-    Cömplete 6 months Systems Developer course with C#, Visual Basic, .NET, MySQL, Razor, MVC, SCRUM and more.
+## Privacy Policy
 
-2008-2011 
-:   **College**; De La Gardie  (Lidköping)
+The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
-    *Did the Technical education,
-    IT specification
-     Won Silver medal for Best Service at Vara UF-Mässa*
+First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
+### Log Files
 
-2005-2008
-:   **Rudenschöld School**; High School (Lidköping)
+Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
-    *Did extra cooking class
-    for the fun of it, 
-     Had a really good time, earned some bones*
+* Internet Protocol addresses (IP)
+* Types of browser
+* Internet Service Provider (ISP)
+* Date and time stamp
+* Referring and exit pages
+* Number of clicks
 
-1998-2004
-:   **Lower, Middle Class School**; Månesköld School
-   (Lidköping)
+All of this information is not linked to anything that is personally identifiable.
 
-    *Learned my ABCs, skinned my knees*
+### Cookies and Web Beacons
 
-Experience
-----------
+When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
 
-**Your Most Recent Work Experience:**
+Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
-I currently work as a Community Manager for Duva. My job mostly consists of establishing customer relations as well as maintaining customer relations. I also do Web Developer and Web Design work. 
+If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
-* Duva [facebook](https://www.facebook.com/Duva.AB/). 
+#### Google Analytics
 
-* Duva website [website](http://duva.nu/). 
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
 
-**Self-employed**
+#### Google Adsense
 
-I've made a series of websites, as well as aided people in the tobacco sales industry, car retail, driving school, restaurants and gardening with several IT-related challenges.
+Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
 
-Technical Experience
---------------------
+## Disclosure Policy
 
-CMS
-:   Extensive knowledge in the handling of the worlds most utilized Content Manegement System: Wordpress.
+I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I'll get a percentage of that sale.
 
-    * Vast knowledge in Plugins, handling, orientation, structure, theming, design and programming with Wordpress.
-    * Knowledge and experience with Magento CMS, Drupal and Joomla.
+Currently I'm an affiliate for Amazon and Google Adsense.
 
-Web Development
-:  Over 10 years of experience with HTML and CSS. Good knowledge in Javascript with a varied roster of several Javascript frameworks such as **AngularJS**, **VueJS**, **ReactJS**, **EmberJS** and more.   
+What this means for you:
 
-Top Knowledge
-:   **Linux:** 
-Vast knowledge with Linux as an operating system for server-side operations and personal computing.
-Active member of several Linux communities with many contributions under the belt throughout the years.
+* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
+* I do not and will not recommend a product just for the sake of making money.
+* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
+* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
 
-:   Basic knowledge of **PHP**, **Ruby**, **Windows**, **Android**
-,**MacOS**, **iOS** & **C#**.
-[ref]: https://www.linkedin.com/in/jonatan-jansson-1285b17b/
-
-The Secret Sauce
-----------------------------------------
-
- Organisations:
-AirCat Föreningen
-* Vice President of the AirCat Foundation for Suicide Prevention.
-
-MakerSpace Lidköping
-* Founder and President.
+Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
