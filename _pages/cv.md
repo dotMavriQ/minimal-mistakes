@@ -1,9 +1,9 @@
 ---
 permalink: /cv/
 title: "muh cv"
+author_profile: true
 last_modified_at: 2016-06-06
 toc: true
-author_profile: true
 ---
 <p style="text-align: center;">
 Jonatan Jansson
