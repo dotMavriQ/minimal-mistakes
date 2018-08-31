@@ -1,31 +1,89 @@
 ---
-title: "Chocolate Chip Cookies"
+permalink: /cv/
+title: "muh cv"
+last_modified_at: 2016-06-06
+toc: true
 ---
+<p style="text-align: center;">
+Jonatan Jansson
+============
+</p>
+<p style="text-align: center;">
+-------------------     ----------------------------
+Lidköping, Västra Götaland, Sweden
+Jonatanjansson2@gmail.com
+-------------------     ----------------------------
+</p>
+Education
+---------
+2016
+:   **Systems Developer Education**; Lexicon  (Skövde)
 
-A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
+    Complete 6 months Systems Developer course with C#, Visual Basic, .NET, MySQL, Razor, MVC, SCRUM and more.
 
-The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as well as additional ingredients such as nuts or oatmeal.
+2008-2011 
+:   **College**; De La Gardie  (Lidköping)
 
-This recipe makes 4 dozen cookies.
+    *Did the Technical education,
+    IT specification
+     Won Silver medal for Best Service at Vara UF-Mässa*
 
-## Ingredients
 
-* 2 1/4 cups all-purpose flour
-* 1 teaspoon baking soda
-* 1/2 teaspoon salt
-* 1 cup butter, softened and cut to pieces
-* 1 cup sugar
-* 1 cup light brown sugar, packed
-* 2 teaspoons vanilla extract
-* 2 large eggs
-* 2 cups semi-sweet chocolate chips
-* 1/2 teaspoon nutmeg (optional)
-* 1 cup chopped pecans or walnuts (optional)
+2005-2008
+:   **Rudenschöld School**; High School (Lidköping)
 
-## Directions
+    *Did extra cooking class
+    for the fun of it, 
+     Had a really good time, earned some bones*
 
-1. Preheat the oven to 350 F.
-2. In a medium bowl, whisk flour with baking soda, nutmeg and salt.
-3. In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.
-4. Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.
-5. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.
+1998-2004
+:   **Lower, Middle Class School**; Månesköld School
+   (Lidköping)
+
+    *Learned my ABCs, skinned my knees*
+
+Experience
+----------
+
+**Your Most Recent Work Experience:**
+
+I currently work as a Community Manager for Duva. My job mostly consists of establishing customer relations as well as maintaining customer relations. I also do Web Developer and Web Design work. 
+
+* Duva [facebook](https://www.facebook.com/Duva.AB/). 
+
+* Duva website [website](http://duva.nu/). 
+
+**Self-employed**
+
+I've made a series of websites, as well as aided people in the tobacco sales industry, car retail, driving school, restaurants and gardening with several IT-related challenges.
+
+Technical Experience
+--------------------
+
+CMS
+:   Extensive knowledge in the handling of the worlds most utilized Content Manegement System: Wordpress.
+
+    * Vast knowledge in Plugins, handling, orientation, structure, theming, design and programming with Wordpress.
+    * Knowledge and experience with Magento CMS, Drupal and Joomla.
+
+Web Development
+:  Over 10 years of experience with HTML and CSS. Good knowledge in Javascript with a varied roster of several Javascript frameworks such as **AngularJS**, **VueJS**, **ReactJS**, **EmberJS** and more.   
+
+Top Knowledge
+:   **Linux:** 
+Vast knowledge with Linux as an operating system for server-side operations and personal computing.
+Active member of several Linux communities with many contributions under the belt throughout the years.
+
+:   Basic knowledge of **PHP**, **Ruby**, **Windows**, **Android**
+,**MacOS**, **iOS** & **C#**.
+[ref]: https://www.linkedin.com/in/jonatan-jansson-1285b17b/
+
+The Secret Sauce
+----------------------------------------
+
+ Organisations:
+AirCat Föreningen
+* Vice President of the AirCat Foundation for Suicide Prevention.
+
+MakerSpace Lidköping
+* Founder and President.
