@@ -17,7 +17,7 @@ Education
 2016
 :   **Systems Developer Education**; Lexicon  (Skövde)
 
-    Complete 6 months Systems Developer course with C#, Visual Basic, .NET, MySQL, Razor, MVC, SCRUM and more.
+    Cömplete 6 months Systems Developer course with C#, Visual Basic, .NET, MySQL, Razor, MVC, SCRUM and more.
 
 2008-2011 
 :   **College**; De La Gardie  (Lidköping)
