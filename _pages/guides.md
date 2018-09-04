@@ -1,7 +1,9 @@
-  # _pages
+defaults:
+  # _guides
   - scope:
-      path: ""
-      type: pages
+      path: "/guides/"
+      type: guides
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      share: true
