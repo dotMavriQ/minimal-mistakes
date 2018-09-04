@@ -1,18 +1,15 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  uri         : "http://thewhip.com"
-  email       : "billy@rick.com"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
-  twitter     : "extravagantman"
-  google_plus : "BillyRick"
+Jonatan Jansson:
+  name        : "Jonatan Jansson"
+  uri         : "http://dotmavriq.life"
+  email       : "dotmavriq@protonmail.ch"
+  bio         : "Pathologically Curious"
+  avatar      : "/assets/MeProfile.jpg"
+  twitter     : "dotmavriq"
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  email       : "cornelius@thewhip.com"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : "rhymeswithsackit"
-  google_plus : "CorneliusFiddlebone"
+Margarida Pedro:
+  name        : "Margarida Oliveira Pedro"
+  email       : "margaridaolpe@gmail.com"
+  bio         : "The wife of dotMavriq"
+  avatar      : "https://dotmargui.github.io/blog/assets/images/bio-photo.jpg"
