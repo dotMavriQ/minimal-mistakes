@@ -229,16 +229,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
- jekyll-archives:
-   enabled:
-     - categories
-     - tags
-   layouts:
-     category: archive-taxonomy
-     tag: archive-taxonomy
-   permalinks:
-     category: /categories/:name/
-     tag: /tags/:name/
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 # HTML Compression
@@ -247,6 +247,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 # Defaults
 defaults:
@@ -261,9 +262,3 @@ defaults:
       comments: # true
       share: true
       related: true
-# Collections 
-    collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
