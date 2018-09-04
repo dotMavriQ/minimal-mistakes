@@ -248,7 +248,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -262,3 +261,9 @@ defaults:
       comments: # true
       share: true
       related: true
+# Collections 
+    collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
