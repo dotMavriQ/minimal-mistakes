@@ -267,3 +267,9 @@ collections:
     output: true
     permalink: /:collection/:path/
       include: ["_pages"]
+
+      collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+    people: true
