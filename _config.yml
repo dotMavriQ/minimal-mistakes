@@ -250,6 +250,4 @@ compress_html:
 
 collections:
   recipes:
-    output: true
-    permalink: /:collection/:path/
     people: true
