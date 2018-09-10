@@ -248,7 +248,7 @@ compress_html:
   ignore:
     envs: development
 
-      collections:
+collections:
   recipes:
     output: true
     permalink: /:collection/:path/
