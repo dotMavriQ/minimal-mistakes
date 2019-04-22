@@ -1,4 +1,10 @@
 ---
 label: grog
 hide_body: false
-fields: []
+fields:
+- name: cases_against_convenience_i
+  type: file
+  config:
+    maxSize: 250
+  label: Cases against convenience I
+  description: LABLOOO
